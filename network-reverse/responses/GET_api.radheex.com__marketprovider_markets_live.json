@@ -1,0 +1,284 @@
+[
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842155",
+      "name": "WTA Chennai 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36262637",
+      "name": "Sa Yamalapalli v Sim Waltert",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T12:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264842870",
+      "marketTime": "2026-11-02T03:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264842870",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 40027477,
+          "name": "Sahaja Yamalapalli",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "40027477"
+          }
+        },
+        {
+          "id": 10874403,
+          "name": "Simona Waltert",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10874403"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264842870\":[{\"time\":1793565038,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264842870|3|OPEN|True|11/03/2026 19:42:24|1793734949170|False|40027477~ACTIVE~3.7:3:*3.65:35:*3.6:50.33:~4.2:36.05:*4.3:47.19:*4.4:11.82:,10874403~ACTIVE~1.32:3.35:*1.31:152.21:*1.3:155.77:~1.38:140.62:*1.39:130.65:*1.4:5:",
+      "scoreUrl": "76256882",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8365",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36263401",
+      "name": "Struff v Ar Gea",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T17:15:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264845945",
+      "marketTime": "2026-11-01T10:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264845945",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 8259098,
+          "name": "Jan-Lennard Struff",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "8259098"
+          }
+        },
+        {
+          "id": 42554022,
+          "name": "Arthur Gea",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "42554022"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264845945\":[{\"time\":1793663929,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264845945|3|OPEN|True|11/03/2026 19:42:21|1793734946161|False|8259098~ACTIVE~1.04:9399.02:*1.03:28192.36:*1.02:8282.45:~1.05:2440.07:*1.06:8861.56:*1.07:1061.29:,42554022~ACTIVE~22:5.45:*21:116.29:*20:5.23:~26:375.96:*27:1:*28:175.45:",
+      "hasTv": "True",
+      "scoreUrl": "76256436",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8334",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "12241523",
+      "name": "T20 Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36269512",
+      "name": "West Indies A v England Lions",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T17:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264908909",
+      "marketTime": "2026-11-03T17:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264908909",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 182543,
+          "name": "West Indies A",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "182543"
+          }
+        },
+        {
+          "id": 3020905,
+          "name": "England Lions",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "3020905"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264908909|5|OPEN|True|11/03/2026 19:42:30|1793734951175|False|182543~ACTIVE~4.5:1.91:*4.4:49.23:*4.3:419.35:~5.2:190.77:*6.4:69.49:*8:7.08:,3020905~ACTIVE~1.24:800:*1.19:373.71:*1.18:1.36:~1.28:6.73:*1.29:167.9:*1.3:1387.09:",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35255",
+      "hasSession": "True",
+      "hasTv": "True",
+      "hasBookMaker": "True",
+      "messages": "{\"3334730\":[{\"time\":1793730014,\"message\":\"160-161 Wrong Commentary Bets Voided\",\"isActive\":true},{\"time\":1793730040,\"message\":\"160-161 Wrong Commentary Bets Voided ( IST 23:49:49 TO 23:50:02 )\",\"isActive\":true},{\"time\":1793730052,\"message\":\"\",\"isActive\":true},{\"time\":1793730352,\"message\":\"169-170 Wrong Commentary Bets Voided ( IST 23:55:04 TO 23:55:18 )\",\"isActive\":true},{\"time\":1793730369,\"message\":\"\",\"isActive\":true}]}",
+      "inactiveMarkets": "[\"303879\",\"3334725\",\"3334726\",\"3334727\",\"3334728\",\"3334729\",\"3334730\",\"3334735\",\"3334736\",\"3334737\",\"3334738\",\"3334739\",\"3334740\",\"3334741\",\"3334743\",\"3334744\",\"3334745\",\"3334746\",\"3334747\",\"3334748\",\"3334749\",\"3334751\",\"3334752\",\"3334753\",\"3334754\",\"3334755\",\"3334756\",\"3334757\",\"3334760\",\"3334761\",\"3334762\",\"3334763\",\"3334764\",\"3334765\",\"3334766\",\"3334767\",\"3334768\",\"3334769\",\"3334770\",\"3334771\",\"3334772\",\"3334773\",\"3334774\",\"3334775\",\"3334776\",\"3334777\",\"3334778\",\"3334785\",\"3334786\",\"3334787\",\"3334788\",\"3334789\",\"3334790\",\"3334791\",\"3334792\",\"3334793\",\"3334794\",\"3334795\",\"3334796\",\"3334800\",\"3334801\",\"3334802\",\"3334803\",\"3334804\",\"3334805\",\"3334806\",\"3334816\",\"3334817\",\"3334818\",\"3334819\",\"3334820\",\"3334821\",\"3334822\",\"3334823\",\"3334824\",\"3334825\",\"3334826\",\"3334827\",\"3334828\",\"3334829\",\"3334830\",\"3334835\",\"3334836\",\"3334837\",\"3334838\",\"3334839\",\"3334842\",\"3334843\",\"3334863\",\"3334864\",\"3334865\",\"3334866\",\"3334867\",\"3334868\",\"3334869\",\"3334870\",\"3334871\",\"3334872\",\"3334873\",\"3334874\",\"3334875\",\"3334879\",\"3334880\",\"3334881\",\"3334882\",\"3334893\",\"3334894\",\"3334895\",\"3334896\",\"3334900\",\"3334901\",\"3334902\",\"3334903\",\"3334907\",\"3334908\",\"3334909\",\"3334910\",\"3334914\",\"3334916\",\"3334917\",\"3334918\",\"3334920\",\"3334921\",\"3334925\",\"3334926\",\"3334928\",\"3334929\",\"3334938\",\"3334940\",\"3334941\",\"43910372\",\"43910373\",\"43910374\",\"43910375\",\"43910376\",\"43910377\",\"43910378\",\"43910379\",\"43910380\",\"43910381\",\"43910382\",\"43910383\",\"43910384\",\"43910385\",\"43910386\",\"43910387\"]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "12241523",
+      "name": "T20 Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36269512",
+      "name": "West Indies A v England Lions",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T17:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "43910502",
+      "marketTime": "2026-11-03T17:00:00Z",
+      "marketType": "BOOKMAKER",
+      "bettingType": "BOOKMAKER",
+      "marketName": "Bookmaker 0 Commission",
+      "provider": "BETHUBS",
+      "marketCondition": {
+        "marketId": "43910502",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 0,
+        "mtp": 4,
+        "allowUnmatchBet": true,
+        "potLimit": 500000,
+        "volume": 1
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 47457173,
+          "name": "West Indies A",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47457174,
+          "name": "England Lions",
+          "sortPriority": 0,
+          "metadata": null
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "43910502|0|OPEN|True||1793734946593|False|47457173~ACTIVE~333:50000:0*0:50000:0*0:50000:0~384:50000:0*0:50000:0*0:50000:0,47457174~ACTIVE~26:200000:0*25:200000:0*24:200000:0~30:200000:0*31:200000:0*32:200000:0",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35255",
+      "hasSession": "True",
+      "hasTv": "True",
+      "hasBookMaker": "True",
+      "messages": "{\"3334730\":[{\"time\":1793730014,\"message\":\"160-161 Wrong Commentary Bets Voided\",\"isActive\":true},{\"time\":1793730040,\"message\":\"160-161 Wrong Commentary Bets Voided ( IST 23:49:49 TO 23:50:02 )\",\"isActive\":true},{\"time\":1793730052,\"message\":\"\",\"isActive\":true},{\"time\":1793730352,\"message\":\"169-170 Wrong Commentary Bets Voided ( IST 23:55:04 TO 23:55:18 )\",\"isActive\":true},{\"time\":1793730369,\"message\":\"\",\"isActive\":true}]}",
+      "inactiveMarkets": "[\"303879\",\"3334725\",\"3334726\",\"3334727\",\"3334728\",\"3334729\",\"3334730\",\"3334735\",\"3334736\",\"3334737\",\"3334738\",\"3334739\",\"3334740\",\"3334741\",\"3334743\",\"3334744\",\"3334745\",\"3334746\",\"3334747\",\"3334748\",\"3334749\",\"3334751\",\"3334752\",\"3334753\",\"3334754\",\"3334755\",\"3334756\",\"3334757\",\"3334760\",\"3334761\",\"3334762\",\"3334763\",\"3334764\",\"3334765\",\"3334766\",\"3334767\",\"3334768\",\"3334769\",\"3334770\",\"3334771\",\"3334772\",\"3334773\",\"3334774\",\"3334775\",\"3334776\",\"3334777\",\"3334778\",\"3334785\",\"3334786\",\"3334787\",\"3334788\",\"3334789\",\"3334790\",\"3334791\",\"3334792\",\"3334793\",\"3334794\",\"3334795\",\"3334796\",\"3334800\",\"3334801\",\"3334802\",\"3334803\",\"3334804\",\"3334805\",\"3334806\",\"3334816\",\"3334817\",\"3334818\",\"3334819\",\"3334820\",\"3334821\",\"3334822\",\"3334823\",\"3334824\",\"3334825\",\"3334826\",\"3334827\",\"3334828\",\"3334829\",\"3334830\",\"3334835\",\"3334836\",\"3334837\",\"3334838\",\"3334839\",\"3334842\",\"3334843\",\"3334863\",\"3334864\",\"3334865\",\"3334866\",\"3334867\",\"3334868\",\"3334869\",\"3334870\",\"3334871\",\"3334872\",\"3334873\",\"3334874\",\"3334875\",\"3334879\",\"3334880\",\"3334881\",\"3334882\",\"3334893\",\"3334894\",\"3334895\",\"3334896\",\"3334900\",\"3334901\",\"3334902\",\"3334903\",\"3334907\",\"3334908\",\"3334909\",\"3334910\",\"3334914\",\"3334916\",\"3334917\",\"3334918\",\"3334920\",\"3334921\",\"3334925\",\"3334926\",\"3334928\",\"3334929\",\"3334938\",\"3334940\",\"3334941\",\"43910372\",\"43910373\",\"43910374\",\"43910375\",\"43910376\",\"43910377\",\"43910378\",\"43910379\",\"43910380\",\"43910381\",\"43910382\",\"43910383\",\"43910384\",\"43910385\",\"43910386\",\"43910387\"]",
+      "archivedMarkets": "[]"
+    }
+  }
+]

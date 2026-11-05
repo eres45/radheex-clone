@@ -1,0 +1,1095 @@
+[
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "28045743",
+      "name": "WBBL",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2024-12-01T07:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "43907183",
+      "marketTime": "2024-12-01T07:10:00Z",
+      "marketType": "BOOKMAKER",
+      "bettingType": "BOOKMAKER",
+      "marketName": "WBBL 2026 Winner Cup Bookmaker",
+      "provider": "BETHUBS",
+      "marketCondition": {
+        "marketId": "43907183",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 25000,
+        "maxProfit": 500000,
+        "betDelay": 0,
+        "mtp": 4,
+        "allowUnmatchBet": true,
+        "potLimit": 50000,
+        "volume": 1
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 47444385,
+          "name": "Hobart Hurricanes W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444386,
+          "name": "Sydney Sixers W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444387,
+          "name": "Perth Scorchers W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444388,
+          "name": "Melbourne Stars W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444389,
+          "name": "Sydney Thunder W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444390,
+          "name": "Adelaide Strikers W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444391,
+          "name": "Melbourne Renegades W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47444392,
+          "name": "Brisbane Heat W",
+          "sortPriority": 0,
+          "metadata": null
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "43907183|0|OPEN|True||1793619012320|False|47444385~ACTIVE~500:0:0*499:0:0*498:0:0~0:0:0*0:0:0*0:0:0,47444386~ACTIVE~170:0:0*169:0:0*168:0:0~0:0:0*0:0:0*0:0:0,47444387~ACTIVE~200:0:0*199:0:0*198:0:0~0:0:0*0:0:0*0:0:0,47444388~ACTIVE~600:0:0*599:0:0*598:0:0~0:0:0*0:0:0*0:0:0,47444389~ACTIVE~250:0:0*249:0:0*248:0:0~0:0:0*0:0:0*0:0:0,47444390~ACTIVE~500:0:0*499:0:0*498:0:0~0:0:0*0:0:0*0:0:0,47444391~ACTIVE~750:0:0*749:0:0*748:0:0~0:0:0*0:0:0*0:0:0,47444392~ACTIVE~950:0:0*949:0:0*948:0:0~0:0:0*0:0:0*0:0:0",
+      "hasBookMaker": "True",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "41334",
+      "name": "Ranji Trophy Elite 2026-27",
+      "provider": "BETHUBS"
+    },
+    "event": {
+      "id": "-11239905",
+      "name": "Himachal Pradesh V  Rajasthan",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-02T04:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "43909778",
+      "marketTime": "2026-11-02T04:00:00Z",
+      "marketType": "BOOKMAKER",
+      "bettingType": "BOOKMAKER",
+      "marketName": "Bookmaker 0 Commission",
+      "provider": "BETHUBS",
+      "marketCondition": {
+        "marketId": "43909778",
+        "betLock": false,
+        "minBet": 0,
+        "maxBet": 0,
+        "maxProfit": 1000000,
+        "betDelay": 0,
+        "mtp": 4,
+        "allowUnmatchBet": true,
+        "potLimit": 70000,
+        "volume": 1
+      },
+      "status": "SUSPENDED",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 47454453,
+          "name": "Himachal Pradesh ",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47454454,
+          "name": " Rajasthan",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47454455,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": null
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"3333128\":[{\"time\":1793612283,\"message\":\"100-101 No Ball Bets Voided (IST:15:04:43 To 15:05:01)\",\"isActive\":true},{\"time\":1793612390,\"message\":\"\",\"isActive\":true}],\"3333710\":[{\"time\":1793681134,\"message\":\"39-40 Wrong Rate Bets Voided ( ist  10:13:03 to 10:14:03 )\",\"isActive\":true}],\"43909778\":[{\"time\":1793595362,\"message\":\" Har-Jeet Samaj Ke Chalna \\u0026 Plz Read Rule No 2.1 \\u0026 5.31 Before Place Bet...\",\"isActive\":true}]}",
+      "book": "43909778|0|OPEN|True|11/02/2026 04:21:13|1793593304807|True|47454453~SUSPENDED~~,47454454~SUSPENDED~~,47454455~SUSPENDED~~",
+      "runners": "[{\"id\":47454451,\"name\":\"Himachal Pradesh \",\"sortPriority\":0,\"metadata\":null},{\"id\":47454452,\"name\":\" Rajasthan\",\"sortPriority\":0,\"metadata\":null},{\"id\":47438933,\"name\":\"The Draw\",\"sortPriority\":0,\"metadata\":null}]",
+      "hasTv": "False",
+      "hasSession": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35250",
+      "inactiveMarkets": "[\"3332985\",\"3332986\",\"3332987\",\"3332988\",\"3333022\",\"3333023\",\"3333024\",\"3333025\",\"3333026\",\"3333027\",\"3333030\",\"3333031\",\"3333032\",\"3333033\",\"3333034\",\"3333035\",\"3333038\",\"3333039\",\"3333042\",\"3333043\",\"3333044\",\"3333050\",\"3333051\",\"3333124\",\"3333125\",\"3333126\",\"3333127\",\"3333128\",\"3333129\",\"3333130\",\"3333134\",\"3333135\",\"3333136\",\"3333137\",\"3333138\",\"3333139\",\"3333140\",\"3333155\",\"3333157\",\"3333160\",\"3333163\",\"3333167\",\"3333172\",\"3333174\",\"3333188\",\"3333195\",\"3333207\",\"3333214\",\"3333224\",\"3333226\",\"3333634\",\"3333635\",\"3333709\",\"3333710\",\"3333711\",\"3333712\",\"3333713\",\"3333714\",\"3333715\",\"3333716\",\"3333717\",\"3333718\",\"3333719\",\"3333720\",\"3333721\",\"3333722\",\"3333726\",\"3333727\",\"3333728\",\"3333729\",\"3333737\",\"3333738\",\"3333985\",\"3333986\",\"3334029\",\"3334030\",\"3334031\",\"3334032\",\"3334033\",\"3334278\",\"3334279\",\"43910176\",\"43910177\",\"43910178\",\"43910179\",\"43910180\",\"43910181\",\"43910182\",\"43910183\",\"43910184\",\"43910185\",\"43910186\",\"43910187\",\"43910188\",\"43910189\",\"43910190\",\"43910191\",\"43910192\",\"43910193\"]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "41334",
+      "name": "Ranji Trophy Elite 2026-27",
+      "provider": "BETHUBS"
+    },
+    "event": {
+      "id": "-11239906",
+      "name": "Uttar Pradesh V  Baroda",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-02T04:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "43909779",
+      "marketTime": "2026-11-02T04:00:00Z",
+      "marketType": "BOOKMAKER",
+      "bettingType": "BOOKMAKER",
+      "marketName": "Bookmaker 0 Commission",
+      "provider": "BETHUBS",
+      "marketCondition": {
+        "marketId": "43909779",
+        "betLock": false,
+        "minBet": 0,
+        "maxBet": 0,
+        "maxProfit": 1000000,
+        "betDelay": 0,
+        "mtp": 4,
+        "allowUnmatchBet": true,
+        "potLimit": 70000,
+        "volume": 1
+      },
+      "status": "SUSPENDED",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 47454458,
+          "name": "Uttar Pradesh",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47454459,
+          "name": " Baroda",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47454460,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": null
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"43909779\":[{\"time\":1793595356,\"message\":\" Har-Jeet Samaj Ke Chalna \\u0026 Plz Read Rule No 2.1 \\u0026 5.31 Before Place Bet...\",\"isActive\":true}]}",
+      "book": "43909779|0|SUSPENDED|True|11/02/2026 04:21:32|1793593702049|True|47454458~SUSPENDED~~,47454459~SUSPENDED~~,47454460~SUSPENDED~~",
+      "runners": "[{\"id\":47454456,\"name\":\"Uttar Pradesh\",\"sortPriority\":0,\"metadata\":null},{\"id\":47454457,\"name\":\" Baroda\",\"sortPriority\":0,\"metadata\":null},{\"id\":47438933,\"name\":\"The Draw\",\"sortPriority\":0,\"metadata\":null}]",
+      "hasTv": "False",
+      "hasSession": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35242",
+      "inactiveMarkets": "[\"3332982\",\"3332983\",\"3332994\",\"3332995\",\"3332996\",\"3332997\",\"3332998\",\"3332999\",\"3333000\",\"3333001\",\"3333002\",\"3333003\",\"3333004\",\"3333005\",\"3333006\",\"3333007\",\"3333008\",\"3333009\",\"3333010\",\"3333011\",\"3333012\",\"3333013\",\"3333014\",\"3333015\",\"3333016\",\"3333017\",\"3333018\",\"3333019\",\"3333020\",\"3333021\",\"3333040\",\"3333041\",\"3333045\",\"3333046\",\"3333047\",\"3333048\",\"3333049\",\"3333400\",\"3333401\",\"3333402\",\"3333403\",\"3333404\",\"3333405\",\"3333406\",\"3333407\",\"3333408\",\"3333409\",\"3333636\",\"3333991\",\"3334013\",\"3334014\",\"3334015\",\"3334016\",\"3334017\",\"3334018\",\"3334019\",\"3334020\",\"3334021\",\"3334022\",\"3334023\",\"3334024\",\"3334025\",\"3334026\",\"3334027\",\"3334062\",\"3334063\",\"3334064\",\"3334065\",\"3334066\",\"3334067\",\"3334068\",\"3334069\",\"3334070\",\"3334071\",\"3334072\",\"3334073\",\"3334074\",\"3334075\",\"3334076\",\"3334077\",\"3334078\",\"3334079\",\"3334080\",\"3334146\",\"3334147\",\"3334148\",\"3334149\",\"3334150\",\"3334151\",\"3334152\",\"3334153\",\"3334154\",\"3334155\",\"3334156\",\"3334157\",\"3334158\",\"3334159\",\"3334160\",\"3334161\",\"3334162\",\"3334163\",\"3334164\",\"3334165\",\"3334166\",\"3334167\",\"3334168\",\"3334169\",\"3334170\",\"3334171\",\"3334172\",\"3334173\",\"3334174\",\"3334175\",\"3334362\",\"3334363\",\"3334364\",\"3334365\",\"3334366\",\"3334367\",\"43910213\",\"43910214\",\"43910215\",\"43910216\",\"43910217\",\"43910218\",\"43910219\",\"43910220\",\"43910221\",\"43910222\",\"43910223\",\"43910224\",\"43910225\",\"43910226\",\"43910227\",\"43910228\",\"43910229\",\"43910230\"]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "12241523",
+      "name": "T20 Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36269512",
+      "name": "West Indies A v England Lions",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T17:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264908909",
+      "marketTime": "2026-11-03T17:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264908909",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 182543,
+          "name": "West Indies A",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "182543"
+          }
+        },
+        {
+          "id": 3020905,
+          "name": "England Lions",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "3020905"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264908909|5|OPEN|True|11/03/2026 19:42:31|1793734953176|False|182543~ACTIVE~4.4:36.54:*4.3:419.35:*3.9:99.73:~4.9:5.11:*5:12.5:*5.2:11.92:,3020905~ACTIVE~1.26:19.87:*1.25:50:*1.24:50:~1.29:124.63:*1.3:1387.09:*1.34:290.27:",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35255",
+      "hasSession": "True",
+      "hasTv": "True",
+      "hasBookMaker": "True",
+      "messages": "{\"3334730\":[{\"time\":1793730014,\"message\":\"160-161 Wrong Commentary Bets Voided\",\"isActive\":true},{\"time\":1793730040,\"message\":\"160-161 Wrong Commentary Bets Voided ( IST 23:49:49 TO 23:50:02 )\",\"isActive\":true},{\"time\":1793730052,\"message\":\"\",\"isActive\":true},{\"time\":1793730352,\"message\":\"169-170 Wrong Commentary Bets Voided ( IST 23:55:04 TO 23:55:18 )\",\"isActive\":true},{\"time\":1793730369,\"message\":\"\",\"isActive\":true}]}",
+      "inactiveMarkets": "[\"303879\",\"3334725\",\"3334726\",\"3334727\",\"3334728\",\"3334729\",\"3334730\",\"3334735\",\"3334736\",\"3334737\",\"3334738\",\"3334739\",\"3334740\",\"3334741\",\"3334743\",\"3334744\",\"3334745\",\"3334746\",\"3334747\",\"3334748\",\"3334749\",\"3334751\",\"3334752\",\"3334753\",\"3334754\",\"3334755\",\"3334756\",\"3334757\",\"3334760\",\"3334761\",\"3334762\",\"3334763\",\"3334764\",\"3334765\",\"3334766\",\"3334767\",\"3334768\",\"3334769\",\"3334770\",\"3334771\",\"3334772\",\"3334773\",\"3334774\",\"3334775\",\"3334776\",\"3334777\",\"3334778\",\"3334785\",\"3334786\",\"3334787\",\"3334788\",\"3334789\",\"3334790\",\"3334791\",\"3334792\",\"3334793\",\"3334794\",\"3334795\",\"3334796\",\"3334800\",\"3334801\",\"3334802\",\"3334803\",\"3334804\",\"3334805\",\"3334806\",\"3334816\",\"3334817\",\"3334818\",\"3334819\",\"3334820\",\"3334821\",\"3334822\",\"3334823\",\"3334824\",\"3334825\",\"3334826\",\"3334827\",\"3334828\",\"3334829\",\"3334830\",\"3334835\",\"3334836\",\"3334837\",\"3334838\",\"3334839\",\"3334842\",\"3334843\",\"3334863\",\"3334864\",\"3334865\",\"3334866\",\"3334867\",\"3334868\",\"3334869\",\"3334870\",\"3334871\",\"3334872\",\"3334873\",\"3334874\",\"3334875\",\"3334879\",\"3334880\",\"3334881\",\"3334882\",\"3334893\",\"3334894\",\"3334895\",\"3334896\",\"3334900\",\"3334901\",\"3334902\",\"3334903\",\"3334907\",\"3334908\",\"3334909\",\"3334910\",\"3334914\",\"3334916\",\"3334917\",\"3334918\",\"3334920\",\"3334921\",\"3334925\",\"3334926\",\"3334928\",\"3334929\",\"3334938\",\"3334940\",\"3334941\",\"43910372\",\"43910373\",\"43910374\",\"43910375\",\"43910376\",\"43910377\",\"43910378\",\"43910379\",\"43910380\",\"43910381\",\"43910382\",\"43910383\",\"43910384\",\"43910385\",\"43910386\",\"43910387\"]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10586027",
+      "name": "Ford Trophy",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36264203",
+      "name": "Wellington Firebirds v Northern Districts",
+      "countryCode": "NZ",
+      "venue": "",
+      "openDate": "2026-11-03T21:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264920351",
+      "marketTime": "2026-11-03T21:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264920351",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 6847358,
+          "name": "Wellington Firebirds",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "6847358"
+          }
+        },
+        {
+          "id": 86360,
+          "name": "Northern Districts",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "86360"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264920351|0|OPEN|False|11/03/2026 19:16:01|1793733703256|False|6847358~ACTIVE~1.83:1.13:*1.82:13.92:*1.77:49:~1.95:11.38:*1.96:37.73:*2.26:449.73:,86360~ACTIVE~2.06:10.77:*2.04:36.25:*1.79:567.82:~2.22:12.34:*2.3:38.61:*2.58:2.54:",
+      "hasSession": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35248",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "9962116",
+      "name": "One Day Internationals",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271322",
+      "name": "New Zealand v India",
+      "countryCode": "NZ",
+      "venue": "",
+      "openDate": "2026-11-04T02:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264937021",
+      "marketTime": "2026-11-04T02:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264937021",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 448,
+          "name": "New Zealand",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "448"
+          }
+        },
+        {
+          "id": 414464,
+          "name": "India",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "414464"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264937021\":[{\"time\":1793634176,\"message\":\"WBBL 2026 ..Winner Cup Bets Started In Our Exchange.......\\u2728\\u2728\\u2728\",\"isActive\":true}],\"43909941\":[{\"time\":1793634170,\"message\":\" Stop watching. Start winning \\u2014 place your bet now.\",\"isActive\":true}],\"43909942\":[{\"time\":1793634183,\"message\":\" Tennis BOOKMAKER Started In Our Exchange...\\n\",\"isActive\":true}],\"43909943\":[{\"time\":1793634186,\"message\":\" Tennis BOOKMAKER Started In Our Exchange...\\n\",\"isActive\":true}]}",
+      "book": "1.264937021|0|OPEN|False|11/03/2026 19:42:30|1793734951175|False|448~ACTIVE~2.2:1006.43:*2.18:1325.32:*2.16:2119.59:~2.22:16.66:*2.24:3636.23:*2.26:833.3:,414464~ACTIVE~1.81:4421.08:*1.8:212.11:*1.79:4623.12:~1.82:804.91:*1.83:272.12:*1.84:814.47:",
+      "hasSession": "True",
+      "hasBookMaker": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35251",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36266944",
+      "name": "Hobart Hurricanes W v Melbourne Renegades W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-04T08:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264885668",
+      "marketTime": "2026-11-04T08:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264885668",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 89981477,
+          "name": "Hobart Hurricanes W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "89981477"
+          }
+        },
+        {
+          "id": 90021943,
+          "name": "Melbourne Renegades W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90021943"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264885668|0|OPEN|False|11/03/2026 19:41:38|1793734949171|False|89981477~ACTIVE~1.78:799.56:*1.77:570.73:*1.76:3921.87:~1.82:42.1:*1.83:14.91:*1.84:47.24:,90021943~ACTIVE~2.22:19.55:*2.2:67.01:*2.18:2.72:~2.28:16.68:*2.3:1094.28:*2.32:4176.16:",
+      "hasSession": "True",
+      "hasBookMaker": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35256",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "11365612",
+      "name": "Test Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36267671",
+      "name": "Bangladesh v West Indies",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-05T03:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264891407",
+      "marketTime": "2026-11-05T03:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264891407",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 7659,
+          "name": "Bangladesh",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "7659"
+          }
+        },
+        {
+          "id": 235,
+          "name": "West Indies",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "235"
+          }
+        },
+        {
+          "id": 60443,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "60443"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264891407|0|OPEN|False|11/03/2026 19:18:47|1793733622314|False|7659~ACTIVE~1.87:645.15:*1.86:2862.27:*1.85:586.57:~1.89:35.2:*1.9:14.55:*1.91:58.66:,235~ACTIVE~2.9:22.94:*2.88:3:*2.84:6.69:~2.92:56.59:*2.94:200.44:*2.96:223.75:,60443~ACTIVE~8:29.07:*7.8:269.06:*7.6:287.12:~8.2:745.09:*8.4:836.67:*8.6:11.43:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36267052",
+      "name": "Adelaide Strikers W v Brisbane Heat W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-05T04:40:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264918914",
+      "marketTime": "2026-11-05T04:40:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264918914",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 90023847,
+          "name": "Adelaide Strikers W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90023847"
+          }
+        },
+        {
+          "id": 90021942,
+          "name": "Brisbane Heat W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90021942"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264918914|0|OPEN|False|11/03/2026 15:43:52|1793721061663|False|90023847~ACTIVE~1.62:5.18:*1.58:63:*1.33:287.71:~1.74:2:*1.75:3.21:*1.8:36.54:,90021942~ACTIVE~2.34:3.89:*2.24:29.36:*1.51:89.89:~2.62:3.2:*2.74:36.33:*3.95:45.86:",
+      "hasSession": "True",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "11365612",
+      "name": "Test Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274667",
+      "name": "Afghanistan v Zimbabwe",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-05T05:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265000466",
+      "marketTime": "2026-11-05T05:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265000466",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 3786094,
+          "name": "Afghanistan",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "3786094"
+          }
+        },
+        {
+          "id": 1006,
+          "name": "Zimbabwe",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "1006"
+          }
+        },
+        {
+          "id": 60443,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "60443"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.265000466|0|OPEN|False|11/03/2026 19:02:28|1793734946160|False|3786094~ACTIVE~1.46:4.36:*1.45:5.21:*1.4:9.73:~2.12:2.99:*2.14:80.02:*2.34:175.93:,1006~ACTIVE~2.48:3.12:*2.2:50:*2.16:2.93:~5:4.64:*5.1:2.67:*20:115.94:,60443~ACTIVE~6:93.57:*5:25:*3.5:25:~14.5:103.79:*15:25:*20:115:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271347",
+      "name": "Sydney Thunder W v Perth Scorchers W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-05T08:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264937467",
+      "marketTime": "2026-11-05T08:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264937467",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 90023791,
+          "name": "Sydney Thunder W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90023791"
+          }
+        },
+        {
+          "id": 90213197,
+          "name": "Perth Scorchers W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90213197"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264937467|0|OPEN|False|11/03/2026 18:50:20|1793731851342|False|90023791~ACTIVE~1.78:4.12:*1.66:777.05:*1.64:518.03:~1.86:85.63:*1.87:129.51:*1.88:129.51:,90213197~ACTIVE~2.16:73.74:*2.14:113.17:*2.12:207.21:~2.3:3.19:*2.52:511.86:*2.58:329.29:",
+      "hasSession": "True",
+      "hasBookMaker": "False",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10393832",
+      "name": "South Africa T20 Challenge",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36273944",
+      "name": "Warriors v Boland",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-05T16:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264999820",
+      "marketTime": "2026-11-05T16:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264999820",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 4297012,
+          "name": "Warriors",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "4297012"
+          }
+        },
+        {
+          "id": 225069,
+          "name": "Boland",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "225069"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264999820|0|OPEN|False||1793734726054|False|4297012~ACTIVE~1.7:3.12:*1.69:5.78:*1.67:10.39:~2.44:6.17:*2.5:6.94:*2.54:7.08:,225069~ACTIVE~1.7:3.12:*1.69:5.78:*1.67:10.39:~2.44:6.17:*2.5:6.94:*2.54:7.08:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271372",
+      "name": "Melbourne Stars W v Sydney Sixers W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-06T08:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264991012",
+      "marketTime": "2026-11-06T08:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264991012",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 90023848,
+          "name": "Melbourne Stars W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90023848"
+          }
+        },
+        {
+          "id": 89981476,
+          "name": "Sydney Sixers W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "89981476"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264991012|0|OPEN|False|11/03/2026 15:48:39|1793720929600|False|90023848~ACTIVE~2.52:2.11:*2.12:6.46:*2.1:78.06:~2.68:1.99:*2.74:3.19:*2.82:2:,89981476~ACTIVE~1.6:3.33:*1.58:5.54:*1.55:3.64:~1.66:3.2:*1.9:93.49:*1.98:86.28:",
+      "hasSession": "True",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10393832",
+      "name": "South Africa T20 Challenge",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275664",
+      "name": "Eastern Storm v Dolphins",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-06T16:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "43910500",
+      "marketTime": "2026-11-06T16:00:00Z",
+      "marketType": "BOOKMAKER",
+      "bettingType": "BOOKMAKER",
+      "marketName": "To Win The Toss",
+      "provider": "BETHUBS",
+      "marketCondition": {
+        "marketId": "43910500",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 0,
+        "mtp": 4,
+        "allowUnmatchBet": true,
+        "potLimit": 200000,
+        "volume": 1
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 47457169,
+          "name": "Eastern Storm",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 47457170,
+          "name": "Dolphins",
+          "sortPriority": 0,
+          "metadata": null
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "43910500|0|OPEN|True||1793713172098|False|47457169~ACTIVE~95:0:*94:0:*93:0:~,47457170~ACTIVE~95:0:*94:0:*93:0:~",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10393832",
+      "name": "South Africa T20 Challenge",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274252",
+      "name": "Western Province v Lions",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-07T16:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264992178",
+      "marketTime": "2026-11-07T16:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264992178",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 105668,
+          "name": "Western Province",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "105668"
+          }
+        },
+        {
+          "id": 4294272,
+          "name": "Lions",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "4294272"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264992178|0|OPEN|False||1793726490061|False|105668~ACTIVE~1.72:15.92:*1.7:10.66:*1.6:3.33:~2.38:4:*2.4:7.44:*2.42:7.49:,4294272~ACTIVE~1.72:15.92:*1.7:10.66:*1.6:3.33:~2.38:4:*2.4:7.44:*2.42:7.49:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  }
+]

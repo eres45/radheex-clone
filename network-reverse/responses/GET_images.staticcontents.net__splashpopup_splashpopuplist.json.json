@@ -1,0 +1,26 @@
+{
+  "CLIENT": {
+    "mediaType": "",
+    "url": "",
+    "redirecturl": "",
+    "orientation": ""
+  },
+  "ADMIN": {
+    "mediaType": "",
+    "url": "",
+    "redirecturl": "",
+    "orientation": ""
+  },
+  "ADMINDESKTOP": {
+    "mediaType": "",
+    "url": "",
+    "redirecturl": "",
+    "orientation": ""
+  },
+  "CLIENTDESKTOP": {
+    "mediaType": "",
+    "url": "",
+    "redirecturl": "",
+    "orientation": ""
+  }
+}

@@ -1,0 +1,2874 @@
+[
+  {
+    "url": "https://www.radheex.com/",
+    "method": "GET",
+    "resource_type": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "timestamp": 1793734927.966434
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.5350218
+  },
+  {
+    "url": "https://www.radheex.com/static/js/main.dcbc770e.js",
+    "method": "GET",
+    "resource_type": "script",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.5350218
+  },
+  {
+    "url": "https://www.radheex.com/static/css/main.293322da.css",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.5350218
+  },
+  {
+    "url": "https://www.radheex.com/bundle.js?1746165150267",
+    "method": "GET",
+    "resource_type": "script",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.677316
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=latin,latin-ext",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.6853282
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.6853282
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734928.6853282
+  },
+  {
+    "url": "https://report.radheex.com/maintenance",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.381246
+  },
+  {
+    "url": "https://api.radheex.com/delaymarkets/markets/current",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.381246
+  },
+  {
+    "url": "https://www.radheex.com/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/static/css/main.293322da.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.381246
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://fonts.googleapis.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.381246
+  },
+  {
+    "url": "https://www.radheex.com/static/media/slick.295183786cd8a1389865.woff",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/static/css/main.293322da.css",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://fonts.googleapis.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/banners/listwologin.json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/banners/SocialMediaAndNumbers.json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/evts/winnereventdic.json?1793734929362",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/download.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/apkicon.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/brand_logo.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3822465
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/coin.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/Account-Statement.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/profit-loss-report.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/bet-history.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/unsettle-bet.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/set-button-value.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/rules.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/change-password.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/log-out.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/home.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3832464
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/inplay.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/mini_games.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/menu.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame1.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame2.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame3.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame4.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame5.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame6.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame7.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame8.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3842473
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/topgame/topgame9.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/pg-banner.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/evolution.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/ezugi.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/pragmatic-live.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/betgames.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/ssg.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/betsoft.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/spribe.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/Evoplay.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.385246
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/logo-18plus.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/evolution.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/ezugi.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/pragmatic.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/betgames.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/superspade.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/betsoft.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3861248
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/spribe.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3866286
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/evoplay.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3866286
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/loginimages/mobile/logo-18plus.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3866286
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/aviator-icon.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3866286
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/inout-icon.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.3866286
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner5.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6780424
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner0.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.684437
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner1.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.684437
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner2.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.684437
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner3.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.684437
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner4.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.684437
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner-mobile5.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.684437
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner-mobile0.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner-mobile1.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner-mobile2.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner-mobile3.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/main-banner-mobile4.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/bonus-1.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/bonus-2.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/bonus-3.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/RDGIF-1.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/login/RDGIF-2.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.6854362
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/main-s1.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.8309143
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/tv.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.831914
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/bm-icon1.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.831914
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/fancy-icon1.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734929.831914
+  },
+  {
+    "url": "https://api.radheex.com/sso/auth/requestcaptcha",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-op-key": "RDE",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734934.4086387
+  },
+  {
+    "url": "https://api.radheex.com/sso/auth/demo",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "x-op-key": "RDE",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "content-type": "application/x-www-form-urlencoded;charset=UTF-8",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734935.9510508
+  },
+  {
+    "url": "https://api.radheex.com/sso/auth",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9648936
+  },
+  {
+    "url": "https://api.radheex.com/account/transaction/account",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9668915
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile/buttons",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9678912
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9698956
+  },
+  {
+    "url": "https://www.radheex.com/",
+    "method": "GET",
+    "resource_type": "document",
+    "headers": {
+      "referer": "https://www.radheex.com/",
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Windows\""
+    },
+    "post_data": null,
+    "timestamp": 1793734939.970892
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/coin.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.971891
+  },
+  {
+    "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9738917
+  },
+  {
+    "url": "https://www.radheex.com/static/js/main.dcbc770e.js",
+    "method": "GET",
+    "resource_type": "script",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9748905
+  },
+  {
+    "url": "https://www.radheex.com/static/css/main.293322da.css",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9758918
+  },
+  {
+    "url": "https://www.radheex.com/bundle.js?1746165150267",
+    "method": "GET",
+    "resource_type": "script",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9768927
+  },
+  {
+    "url": "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&subset=latin,latin-ext",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9768927
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.978891
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap",
+    "method": "GET",
+    "resource_type": "stylesheet",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9798906
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFQ.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "referer": "https://fonts.googleapis.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9808912
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQ.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "referer": "https://fonts.googleapis.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.981896
+  },
+  {
+    "url": "https://www.radheex.com/static/media/slick.295183786cd8a1389865.woff",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "referer": "https://www.radheex.com/static/css/main.293322da.css"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.981896
+  },
+  {
+    "url": "https://www.radheex.com/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "method": "GET",
+    "resource_type": "font",
+    "headers": {
+      "origin": "https://www.radheex.com",
+      "referer": "https://www.radheex.com/static/css/main.293322da.css"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.982891
+  },
+  {
+    "url": "https://report.radheex.com/maintenance",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.982891
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/apkicon.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.982891
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/current",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9838905
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/brand_logo.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9838905
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/rules.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9838905
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/log-out.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9848907
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/coin.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9858904
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/Account-Statement.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.986891
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/profit-loss-report.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9878914
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/bet-history.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9898903
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/unsettle-bet.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.990891
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/set-button-value.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9918911
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/change-password.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9928916
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/home.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9938912
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/inplay.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9948955
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/mini_games.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9948955
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/menu.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9958909
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/marquee",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9958909
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/Markets/menu",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9958909
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/banners/list.json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9958909
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/banners/SocialMediaAndNumbers.json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9958909
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/aviator-icon.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.996891
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/sports-icons.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9978912
+  },
+  {
+    "url": "https://images.staticcontents.net/splashpopup/splashpopuplist.json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9978912
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/coin.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9978912
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/mobiledefaultbanner.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9978912
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/inout-icon-b.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9988923
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/l.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734939.9988923
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/main-s1.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0028932
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/bg-disabled.png",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0028932
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/tv.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0038917
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/bm-icon1.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0038917
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/fancy-icon1.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0048916
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/a-pin-mobile.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0048916
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/inout-icon.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0088916
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0098915
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/download.svg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "referer": "https://www.radheex.com/"
+    },
+    "post_data": null,
+    "timestamp": 1793734940.0108926
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/list.json",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.864657
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_16.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8896785
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_1.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8896785
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_6.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8896785
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_12.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8906782
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_13.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8906782
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_14.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8906782
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/desktop_banner_15.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8906782
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_16.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8906782
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_6.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8906782
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_12.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.891678
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_13.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.891678
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_14.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.891678
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_15.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8936775
+  },
+  {
+    "url": "https://images.staticcontents.net/banners/mobile_banner_1.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734950.8936775
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/live",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734951.394631
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734951.394631
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/current",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734951.3956301
+  },
+  {
+    "url": "https://report.radheex.com/bets/user/open/event",
+    "method": "POST",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": "{\"id\":\"36262637,36263401,36269512\"}",
+    "timestamp": 1793734953.4070032
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/eventtype/4",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734953.4548397
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734953.4548397
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/eventtype/4",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734953.45584
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/Cricket-banner.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734953.45584
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/eventtype/1",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734955.5034087
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/Soccer-banner.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734955.5034087
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/eventtype/2",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734957.5562072
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/Tennis-banner.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734957.5562072
+  },
+  {
+    "url": "https://api.radheex.com/manage/Profile/userrebatebonus",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734959.6048503
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734959.6048503
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/events/detail/36262637",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734963.606837
+  },
+  {
+    "url": "https://report.radheex.com/bets/user/open/event",
+    "method": "POST",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": "{\"id\":\"36262637\"}",
+    "timestamp": 1793734963.6148405
+  },
+  {
+    "url": "https://images.staticcontents.net/rde/uimg/transparent.gif",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734963.6148405
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/marquee",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734969.6081212
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/current",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734969.6081212
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/events/detail/36262637",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734975.5607755
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/Markets/menu",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734989.605868
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/marquee",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734989.605868
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/events/detail/36262637",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734990.7196805
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/Markets/menu",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6872752
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6872752
+  },
+  {
+    "url": "https://api.clubcasinoz.com/casino/games/launch/EzugiLDLobby.201",
+    "method": "GET",
+    "resource_type": "xhr",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "accept": "application/json, text/plain, */*"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6872752
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/current",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6872752
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi1.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi2.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi3.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi4.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi5.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi6.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi7.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi8.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi9.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi10.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi11.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.6882746
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/img/ezugi12.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734993.689276
+  },
+  {
+    "url": "https://api.radheex.com/manage/profile",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://api.radheex.com/marketprovider/markets/current",
+    "method": "GET",
+    "resource_type": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "content-type": "application/json"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201206.sbe_aviator.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201203.sbe_keno.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201204.sbe_roulette.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201205.sbe_hilo.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201207.sbe_dice.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201208.sbe_mines.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201209.sbe_plinko.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/without-login/aviator/201210.sbe_goal.jpg",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7366333
+  },
+  {
+    "url": "https://images.staticcontents.net/casino/banner/images/casinopoint100.webp",
+    "method": "GET",
+    "resource_type": "image",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://www.radheex.com/",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    },
+    "post_data": null,
+    "timestamp": 1793734995.7376335
+  },
+  {
+    "url": "https://api.clubcasinoz.com/casino/games/SPRIBE",
+    "method": "GET",
+    "resource_type": "xhr",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "authorization": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkZW1vY2xpZW50Iiwicm9sZSI6IkRlbW9DbGllbnQiLCJpc3MiOiJSREUiLCJleHAiOjE3OTM3NjM3MzYyODUsInB3ZGNoIjpmYWxzZSwiaXAiOiI0OS4zNi40My4xNzgifQ.DCmkmvu3jg7p2AUW1yP_XEsoEJSmWNXGxSWujU-lSug",
+      "referer": "https://www.radheex.com/",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "x-op-key": "RDE",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
+      "accept": "application/json, text/plain, */*"
+    },
+    "post_data": null,
+    "timestamp": 1793735002.7465532
+  }
+]

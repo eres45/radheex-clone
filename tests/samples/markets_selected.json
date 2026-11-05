@@ -1,0 +1,47 @@
+[
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "English Championship"
+    },
+    "event": {
+      "id": "36223272",
+      "name": "Blackburn v Stoke",
+      "openDate": "2026-11-04T01:15:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742339",
+      "marketName": "Match Odds",
+      "marketType": "MATCH_ODDS",
+      "status": "OPEN",
+      "inPlay": true,
+      "runners": [
+        {
+          "id": "48350",
+          "name": "Blackburn",
+          "sortPriority": 1
+        },
+        {
+          "id": "69720",
+          "name": "Stoke",
+          "sortPriority": 2
+        },
+        {
+          "id": "58805",
+          "name": "The Draw",
+          "sortPriority": 3
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264742339|0|OPEN|False|11/03/2026 04:26:13|1|False|48350~ACTIVE~2.8:100:*2.78:50:~2.82:100:*2.84:50:,69720~ACTIVE~2.84:100:~2.86:50:,58805~ACTIVE~3.2:100:~3.3:50:"
+    }
+  }
+]

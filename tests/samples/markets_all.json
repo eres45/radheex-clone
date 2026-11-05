@@ -1,0 +1,4952 @@
+[
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "28045743",
+      "name": "WBBL",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2024-12-01T07:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.263737530",
+      "marketTime": "2026-10-29T04:40:00Z",
+      "marketType": "TOURNAMENT_WINNER",
+      "bettingType": "ODDS",
+      "marketName": "Winner 2026",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.263737530",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 1,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 1
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 89981477,
+          "name": "Hobart Hurricanes W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 89981476,
+          "name": "Sydney Sixers W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 90213197,
+          "name": "Perth Scorchers W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 90023848,
+          "name": "Melbourne Stars W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 90023791,
+          "name": "Sydney Thunder W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 90023847,
+          "name": "Adelaide Strikers W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 90021943,
+          "name": "Melbourne Renegades W",
+          "sortPriority": 0,
+          "metadata": null
+        },
+        {
+          "id": 90021942,
+          "name": "Brisbane Heat W",
+          "sortPriority": 0,
+          "metadata": null
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.263737530|0|OPEN|False|11/03/2026 18:14:03|1793732289895|False|89981476~ACTIVE~3.25:259.71:*3.2:75.84:*1.92:24.79:~4:12.5:*5:54.16:*5.1:2.75:,89981477~ACTIVE~9.2:33.85:*9:259.23:*3.65:13.04:~990:5.5:,90023791~ACTIVE~5.5:270.03:*5.4:47.4:*2.28:20.88:~6:154.52:*13.5:20.06:*14:1:,90213197~ACTIVE~5.1:55.84:*5:168.65:*2.36:20.17:~6.6:155.55:*11.5:23.55:*12:3.39:,90023848~ACTIVE~9:260.71:*8.8:26.74:*2.92:104.17:~9.2:51.2:*20:2.7:*240:1.13:,90023847~ACTIVE~7.8:34.72:*7.6:257.61:*3.1:16.13:~20:2.38:*48:5.93:*90:6.39:,90021943~ACTIVE~22:14.94:*21:155.83:*3.65:13.04:~990:3.04:,90021942~ACTIVE~36:8.36:*34:155.83:*3.65:13.04:~990:3.02:",
+      "hasBookMaker": "True",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36220990",
+      "name": "AEK Athens v Real Madrid",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T17:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264291008",
+      "marketTime": "2026-11-04T17:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264291008",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 10758,
+          "name": "AEK Athens",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10758"
+          }
+        },
+        {
+          "id": 2426,
+          "name": "Real Madrid",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "2426"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264291008|0|OPEN|False|11/03/2026 19:51:26|1793735768387|False|10758~ACTIVE~12:156.46:*11.5:230.02:*11:1096.37:~13:676.09:*13.5:345.93:*14:358.17:,2426~ACTIVE~1.26:17631.12:*1.25:14356.23:*1.24:21311.6:~1.28:13444.79:*1.29:3700:*1.3:9669.61:,58805~ACTIVE~7.4:299.09:*7.2:783.92:*7:1934.47:~7.6:52.51:*7.8:447.69:*8:622.69:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36220974",
+      "name": "Porto v Napoli",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264291146",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264291146",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48785,
+          "name": "Porto",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48785"
+          }
+        },
+        {
+          "id": 676464,
+          "name": "Napoli",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "676464"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264291146|0|OPEN|False|11/03/2026 19:55:06|1793735752428|False|48785~ACTIVE~2:664.32:*1.99:2049.33:*1.98:150.85:~2.02:1788.57:*2.04:2304.09:*2.06:1832.04:,676464~ACTIVE~4:1340.21:*3.95:878.24:*3.9:561.77:~4.1:55.54:*4.2:526.21:*4.3:1386.08:,58805~ACTIVE~3.85:459.66:*3.8:352.88:*3.75:1084.72:~3.9:34.55:*3.95:254.86:*4:560.77:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223238",
+      "name": "Feyenoord v Inter",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264319398",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264319398",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 55264,
+          "name": "Feyenoord",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "55264"
+          }
+        },
+        {
+          "id": 63347,
+          "name": "Inter",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "63347"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264319398\":[{\"time\":1793727360,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264319398|0|OPEN|False|11/03/2026 19:56:42|1793735803420|False|55264~ACTIVE~4.4:1148.75:*4.3:3430.78:*4.2:4160.58:~4.5:1023.15:*4.6:6133.13:*4.7:6744.04:,63347~ACTIVE~1.8:593.14:*1.79:5102.99:*1.78:10542.77:~1.81:77.64:*1.82:4673.57:*1.83:4594.44:,58805~ACTIVE~4.5:1199.34:*4.4:3027.61:*4.3:3092.24:~4.6:797.28:*4.7:3628.11:*4.8:2945.87:",
+      "scoreUrl": "74560610",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8597",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223230",
+      "name": "Atletico Madrid v Bayern Munich",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264319538",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264319538",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 52480965,
+          "name": "Atletico Madrid",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "52480965"
+          }
+        },
+        {
+          "id": 5774350,
+          "name": "Bayern Munich",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "5774350"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264319538\":[{\"time\":1793727365,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264319538|0|OPEN|False|11/03/2026 19:56:41|1793735804419|False|52480965~ACTIVE~3.35:4896.55:*3.3:11890.02:*3.25:7292.51:~3.4:2586.91:*3.45:2559.14:*3.5:6413.71:,5774350~ACTIVE~2.14:6926.33:*2.12:13460.63:*2.1:12707.05:~2.16:187.27:*2.18:10103.63:*2.2:7536.85:,58805~ACTIVE~4.1:1382.24:*4:4590.94:*3.95:2764.56:~4.2:3036.82:*4.3:8243.9:*4.4:2340.43:",
+      "scoreUrl": "74560616",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8599",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223228",
+      "name": "Villarreal v Paris St-G",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264319676",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264319676",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 28191,
+          "name": "Villarreal",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "28191"
+          }
+        },
+        {
+          "id": 489720,
+          "name": "Paris St-G",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "489720"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264319676\":[{\"time\":1793727371,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264319676|0|OPEN|False|11/03/2026 19:56:43|1793735804418|False|28191~ACTIVE~4.5:768.01:*4.4:1108.52:*4.3:8973.92:~4.6:2028.87:*4.7:8181.95:*4.8:7772.36:,489720~ACTIVE~1.81:640.71:*1.8:5865.24:*1.79:10392.26:~1.82:3906.37:*1.83:4725.21:*1.84:9304.55:,58805~ACTIVE~4.4:2579.71:*4.3:2446.23:*4.2:4448.77:~4.5:2163.07:*4.6:4929.98:*4.7:4137.47:",
+      "scoreUrl": "72478704",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8598",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223248",
+      "name": "Fenerbahce v Liverpool",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T17:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264319814",
+      "marketTime": "2026-11-04T17:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264319814",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 46726,
+          "name": "Fenerbahce",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "46726"
+          }
+        },
+        {
+          "id": 56323,
+          "name": "Liverpool",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "56323"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264319814|0|OPEN|False|11/03/2026 19:56:36|1793735797417|False|46726~ACTIVE~6.2:163.32:*6:880.45:*5.9:432.83:~6.4:206.66:*6.6:993.66:*6.8:741.61:,56323~ACTIVE~1.53:2870.07:*1.52:2126.44:*1.51:2998.19:~1.54:2535.13:*1.55:615.95:*1.56:1091.62:,58805~ACTIVE~5.3:78.9:*5.2:145.08:*5.1:298.41:~5.4:403.47:*5.5:632.06:*5.6:1313.1:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223236",
+      "name": "PSV v Club Brugge",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264319952",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264319952",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48451,
+          "name": "PSV",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48451"
+          }
+        },
+        {
+          "id": 10762,
+          "name": "Club Brugge",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10762"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264319952|0|OPEN|False|11/03/2026 19:55:58|1793735759418|False|48451~ACTIVE~2.16:39.92:*2.14:621.03:*2.12:1503.68:~2.18:268.61:*2.2:243.91:*2.22:4985.95:,10762~ACTIVE~3.15:94.84:*3.1:825.88:*3.05:1922.43:~3.2:185.14:*3.25:605.48:*3.3:1224.05:,58805~ACTIVE~4.5:112.89:*4.4:542.4:*4.3:1113.28:~4.6:981.35:*4.7:1616.28:*4.8:2159.71:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223231",
+      "name": "Slavia Prague v Arsenal",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320090",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320090",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 10777,
+          "name": "Slavia Prague",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10777"
+          }
+        },
+        {
+          "id": 1096,
+          "name": "Arsenal",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "1096"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264320090|0|OPEN|False|11/03/2026 19:56:10|1793735804419|False|10777~ACTIVE~13:60.76:*12.5:101.14:*12:231.34:~13.5:22.21:*14:103.19:*14.5:179.78:,1096~ACTIVE~1.27:4068.28:*1.26:8763.53:*1.25:6670.37:~1.29:2499.62:*1.3:2969.74:*1.31:5179.65:,58805~ACTIVE~6.8:234.91:*6.6:501.99:*6.4:607.3:~7.2:381.41:*7.4:460.77:*7.6:658.48:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223260",
+      "name": "Viking v FC Sabah",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320228",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320228",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 168747,
+          "name": "Viking",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "168747"
+          }
+        },
+        {
+          "id": 15293881,
+          "name": "FC Sabah",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "15293881"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264320228|0|OPEN|False|11/03/2026 19:38:46|1793735049264|False|168747~ACTIVE~1.45:193.77:*1.44:3312.1:*1.43:4374.6:~1.46:507.56:*1.47:872.11:*1.48:3701.38:,15293881~ACTIVE~7.4:21:*7.2:122.87:*7:500.87:~7.6:298.32:*7.8:784.25:*8:454.78:,58805~ACTIVE~5.6:118.83:*5.5:111.27:*5.4:565.71:~5.8:299.57:*5.9:344.88:*6:377.99:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223259",
+      "name": "RB Leipzig v Man City",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320382",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320382",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 5340398,
+          "name": "RB Leipzig",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "5340398"
+          }
+        },
+        {
+          "id": 47999,
+          "name": "Man City",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "47999"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264320382|0|OPEN|False|11/03/2026 19:52:43|1793735659440|False|5340398~ACTIVE~5.7:42.92:*5.6:414.99:*5.5:576.68:~5.8:112.55:*5.9:100.06:*6:857.43:,47999~ACTIVE~1.59:5020.92:*1.58:742.76:*1.57:1340.39:~1.61:1917.15:*1.62:3835.05:*1.63:513.41:,58805~ACTIVE~5:18.2:*4.9:595.34:*4.8:815.02:~5.1:204.06:*5.2:1161.93:*5.3:1105.7:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223251",
+      "name": "Lens v Como",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320547",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320547",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 44793,
+          "name": "Lens",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "44793"
+          }
+        },
+        {
+          "id": 60298,
+          "name": "Como",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "60298"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264320547|0|OPEN|False|11/03/2026 19:54:55|1793735696441|False|44793~ACTIVE~3.3:444.59:*3.25:527.22:*3.2:1740.99:~3.35:3.92:*3.4:1405.29:*3.45:530.24:,60298~ACTIVE~2.2:918.19:*2.18:2276.8:*2.16:2069.89:~2.22:350.08:*2.24:1166.38:*2.26:953.46:,58805~ACTIVE~4:683.44:*3.95:108.88:*3.9:791.44:~4.1:237.28:*4.2:2803.8:*4.3:1531.08:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223258",
+      "name": "Barcelona v Aston Villa",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320685",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320685",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 52480964,
+          "name": "Barcelona",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "52480964"
+          }
+        },
+        {
+          "id": 63908,
+          "name": "Aston Villa",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "63908"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264320685\":[{\"time\":1793727346,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264320685|0|OPEN|False|11/03/2026 19:56:42|1793735804419|False|52480964~ACTIVE~1.31:17306.79:*1.3:43414.16:*1.29:26323.13:~1.32:13218.45:*1.33:14820.39:*1.34:15604.12:,63908~ACTIVE~9.4:713.48:*9.2:729.05:*9:3015.69:~9.6:790.92:*9.8:726.17:*10:497.75:,58805~ACTIVE~7.2:3566.65:*7:2758.47:*6.8:1649.75:~7.4:196.71:*7.6:2210.28:*7.8:1627.55:",
+      "scoreUrl": "74560614",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8602",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223250",
+      "name": "LASK Linz v Slovan Bratislava",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320823",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320823",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 8587663,
+          "name": "LASK Linz",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "8587663"
+          }
+        },
+        {
+          "id": 46933,
+          "name": "Slovan Bratislava",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "46933"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264320823\":[{\"time\":1793727350,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264320823|0|OPEN|False|11/03/2026 19:56:36|1793735802419|False|8587663~ACTIVE~1.36:200.37:*1.35:13274.77:*1.34:10951.32:~1.37:7616.55:*1.38:4271.88:*1.39:5994.85:,46933~ACTIVE~9.4:378.58:*9.2:413.59:*9:369.32:~9.6:132.5:*9.8:245.61:*10:514.46:,58805~ACTIVE~6.2:1253.25:*6:1846.79:*5.9:701.9:~6.4:385.66:*6.6:2432.23:*6.8:1854.83:",
+      "scoreUrl": "74560612",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8600",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223249",
+      "name": "Bodo Glimt v Lille",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264320961",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264320961",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 373549,
+          "name": "Bodo Glimt",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "373549"
+          }
+        },
+        {
+          "id": 44790,
+          "name": "Lille",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "44790"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264320961\":[{\"time\":1793727355,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264320961|0|OPEN|False|11/03/2026 19:56:42|1793735804417|False|373549~ACTIVE~1.61:11919.27:*1.6:6002.6:*1.59:14756.27:~1.62:1937.75:*1.63:3894.73:*1.64:13257.27:,44790~ACTIVE~5.6:732.16:*5.5:1393.04:*5.4:1173.75:~5.7:8020.46:*5.8:1268.29:*5.9:3989.03:,58805~ACTIVE~4.9:558.78:*4.8:2244.76:*4.7:4625.34:~5:1393.13:*5.1:2697.38:*5.2:3294.59:",
+      "scoreUrl": "74560600",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8601",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223262",
+      "name": "Dortmund v Betis",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264321099",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264321099",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 44785,
+          "name": "Dortmund",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "44785"
+          }
+        },
+        {
+          "id": 44507,
+          "name": "Betis",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "44507"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264321099|0|OPEN|False|11/03/2026 19:49:21|1793735533376|False|44785~ACTIVE~1.82:230.27:*1.81:32.18:*1.8:2566.83:~1.83:206.1:*1.84:1271.95:*1.85:2190.05:,44507~ACTIVE~4.5:79.03:*4.4:934.5:*4.3:1074.47:~4.6:175.87:*4.7:618.07:*4.8:401.05:,58805~ACTIVE~4.3:133.61:*4.2:692.69:*4.1:734.88:~4.4:178.83:*4.5:1033.37:*4.6:1728.78:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "228",
+      "name": "UEFA Champions League",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36223273",
+      "name": "Man Utd v Roma",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264321378",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264321378",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 200000,
+        "maxProfit": 2000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48351,
+          "name": "Man Utd",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48351"
+          }
+        },
+        {
+          "id": 56967,
+          "name": "Roma",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "56967"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264321378\":[{\"time\":1793727339,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264321378|0|OPEN|False|11/03/2026 19:56:42|1793735804417|False|48351~ACTIVE~2.14:5795.28:*2.12:4004.12:*2.1:12278.3:~2.16:11036.28:*2.18:21154.78:*2.2:24456.47:,56967~ACTIVE~3.1:7908.88:*3.05:25123.09:*3:11588.63:~3.15:1292.52:*3.2:5288.03:*3.25:7853.59:,58805~ACTIVE~4.5:4605.05:*4.4:14654.63:*4.3:10055.04:~4.6:949.65:*4.7:2695.46:*4.8:3774.47:",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8595",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "13",
+      "name": "Brazilian Serie A",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36239536",
+      "name": "Chapecoense v Mirassol",
+      "countryCode": "BR",
+      "venue": "",
+      "openDate": "2026-11-03T22:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264507448",
+      "marketTime": "2026-11-03T22:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264507448",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 2909511,
+          "name": "Chapecoense",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "2909511"
+          }
+        },
+        {
+          "id": 2760854,
+          "name": "Mirassol",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "2760854"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264507448|0|OPEN|False|11/03/2026 19:35:07|1793735329352|False|2909511~ACTIVE~3.8:37.86:*3.75:193.16:*3.7:262.11:~3.9:48.38:*3.95:362.82:*4:411.35:,2760854~ACTIVE~2.06:767.92:*2.04:612.46:*2.02:1273.75:~2.1:92.2:*2.12:115.05:*2.14:731.35:,58805~ACTIVE~3.8:17.32:*3.75:86.74:*3.7:296.12:~3.9:59.6:*3.95:292.82:*4:73.97:",
+      "scoreUrl": "66887156",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8606",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "13",
+      "name": "Brazilian Serie A",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36239606",
+      "name": "Athletico-PR v Vasco Da Gama",
+      "countryCode": "BR",
+      "venue": "",
+      "openDate": "2026-11-04T22:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264509399",
+      "marketTime": "2026-11-04T22:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264509399",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 36860494,
+          "name": "Athletico-PR",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "36860494"
+          }
+        },
+        {
+          "id": 198124,
+          "name": "Vasco Da Gama",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "198124"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264509399|0|OPEN|False|11/03/2026 19:25:19|1793735421360|False|36860494~ACTIVE~2.06:417.3:*2.04:257.05:*2.02:851.19:~2.12:218.41:*2.14:72.24:*2.16:120.43:,198124~ACTIVE~3.7:6.3:*3.65:113.53:*3.6:9.51:~3.85:598.63:*3.9:166.68:*3.95:107.05:,58805~ACTIVE~3.85:4.32:*3.8:146.78:*3.75:21.31:~3.95:10.4:*4:31.28:*4.1:281.33:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "13",
+      "name": "Brazilian Serie A",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36239714",
+      "name": "Flamengo v Gremio",
+      "countryCode": "BR",
+      "venue": "",
+      "openDate": "2026-11-04T22:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264511984",
+      "marketTime": "2026-11-04T22:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264511984",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 198138,
+          "name": "Flamengo",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "198138"
+          }
+        },
+        {
+          "id": 198134,
+          "name": "Gremio",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "198134"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264511984|0|OPEN|False|11/03/2026 19:16:04|1793733365279|False|198138~ACTIVE~1.18:2452.07:*1.17:409.97:*1.16:1308.52:~1.2:247.06:*1.21:885.89:*1.22:597.04:,198134~ACTIVE~17:1.26:*16.5:45.51:*16:7.49:~20:59.51:*21:82.34:*23:14.04:,58805~ACTIVE~8.4:100.69:*8.2:49.46:*8:128.53:~9.4:38.15:*9.6:69.57:*10.5:29.09:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253455",
+      "name": "Blackburn v Stoke",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742339",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264742339",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48350,
+          "name": "Blackburn",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48350"
+          }
+        },
+        {
+          "id": 69720,
+          "name": "Stoke",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "69720"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264742339\":[{\"time\":1793727625,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264742339|3|OPEN|True|11/03/2026 19:55:33|1793735802419|False|48350~ACTIVE~2.9:124.04:*2.88:182.08:*2.86:839.74:~2.94:97.91:*2.96:125.3:*2.98:711.51:,69720~ACTIVE~2.8:82.8:*2.78:113.45:*2.76:904.47:~2.82:83.95:*2.84:118.05:*2.86:176.07:,58805~ACTIVE~3.3:33.24:*3.25:486.55:*3.2:889.44:~3.35:206.56:*3.4:1031.57:*3.45:455.54:",
+      "scoreUrl": "72339986",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8573",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253457",
+      "name": "Derby v Norwich",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742472",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264742472",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48325,
+          "name": "Derby",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48325"
+          }
+        },
+        {
+          "id": 47998,
+          "name": "Norwich",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "47998"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264742472\":[{\"time\":1793727621,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264742472|3|OPEN|True|11/03/2026 19:56:43|1793735804419|False|48325~ACTIVE~9.2:28.12:*9:82.04:*8.8:88.47:~9.4:14.31:*9.6:50.37:*9.8:21.43:,47998~ACTIVE~1.41:176.7:*1.4:463.58:*1.39:1404.58:~1.42:960.38:*1.43:1448.51:*1.44:1226.1:,58805~ACTIVE~5.4:130.91:*5.3:127.15:*5.2:736.69:~5.5:99.2:*5.6:72.72:*5.7:302.35:",
+      "scoreUrl": "72339988",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8588",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253458",
+      "name": "Portsmouth v Swansea",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742583",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264742583",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 58344,
+          "name": "Portsmouth",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58344"
+          }
+        },
+        {
+          "id": 62683,
+          "name": "Swansea",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "62683"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264742583\":[{\"time\":1793727617,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264742583|3|OPEN|True|11/03/2026 19:56:38|1793735799419|False|58344~ACTIVE~2.5:39.36:*2.48:197.51:*2.46:800.89:~2.52:142.44:*2.54:918.47:*2.56:450.75:,62683~ACTIVE~3.45:23.39:*3.4:119.17:*3.35:943.57:~3.5:352.31:*3.55:843.36:*3.6:1624.82:,58805~ACTIVE~3.2:162.09:*3.15:420.92:*3.1:1688.72:~3.25:342.19:*3.3:699.65:*3.35:1669.17:",
+      "scoreUrl": "72339990",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8565",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253459",
+      "name": "Preston v Sheff Utd",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742695",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264742695",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 56295,
+          "name": "Preston",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "56295"
+          }
+        },
+        {
+          "id": 48470,
+          "name": "Sheff Utd",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48470"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264742695\":[{\"time\":1793727613,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264742695|3|OPEN|True|11/03/2026 19:56:38|1793735804419|False|56295~ACTIVE~2.24:53.57:*2.22:890.44:*2.2:1614.58:~2.26:96.74:*2.28:1132.36:*2.3:650.99:,48470~ACTIVE~3.45:137.28:*3.4:834.54:*3.35:1059.32:~3.55:563.98:*3.6:1131.25:*3.65:391.95:,58805~ACTIVE~3.65:206.71:*3.6:631.08:*3.55:1086.61:~3.75:149.1:*3.8:159.68:*3.85:1025.48:",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8576",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253460",
+      "name": "QPR v Burnley",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742827",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264742827",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 62684,
+          "name": "QPR",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "62684"
+          }
+        },
+        {
+          "id": 56299,
+          "name": "Burnley",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "56299"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264742827\":[{\"time\":1793727609,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264742827|3|OPEN|True|11/03/2026 19:56:42|1793735803420|False|62684~ACTIVE~1.94:1372.7:*1.93:1013.72:*1.92:180.22:~1.95:9.87:*1.96:276.56:*1.97:368.13:,56299~ACTIVE~4.4:23.49:*4.3:711.01:*4.2:1249.26:~4.5:409.52:*4.6:570.27:*4.7:1266.09:,58805~ACTIVE~3.8:172.18:*3.75:211.76:*3.7:1053.74:~3.85:28.23:*3.9:167.68:*3.95:494.38:",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8575",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253461",
+      "name": "Watford v Lincoln",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264742935",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264742935",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 56301,
+          "name": "Watford",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "56301"
+          }
+        },
+        {
+          "id": 148737,
+          "name": "Lincoln",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "148737"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264742935\":[{\"time\":1793727606,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264742935|3|OPEN|True|11/03/2026 19:56:30|1793735797416|False|56301~ACTIVE~3:150.47:*2.98:99.16:*2.96:241.76:~3.05:582.23:*3.1:1457.91:*3.15:2219.46:,148737~ACTIVE~2.76:21.23:*2.74:697.09:*2.72:690.25:~2.78:27.3:*2.8:210.2:*2.82:189.67:,58805~ACTIVE~3.25:8.26:*3.2:363.26:*3.15:1054.64:~3.3:198.07:*3.35:848.11:*3.4:1638.56:",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8577",
+      "scoreUrl": "72339996",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253466",
+      "name": "Charlton v Bolton",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264743023",
+      "marketTime": "2026-11-03T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264743023",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48349,
+          "name": "Charlton",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48349"
+          }
+        },
+        {
+          "id": 48322,
+          "name": "Bolton",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48322"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264743023\":[{\"time\":1793727544,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264743023|3|OPEN|True|11/03/2026 19:56:37|1793735802418|False|48349~ACTIVE~2.22:135.24:*2.2:1060.9:*2.18:1383.1:~2.24:1075.47:*2.26:621.24:*2.28:1196.36:,48322~ACTIVE~3.65:42.49:*3.6:143.98:*3.55:892.07:~3.7:102.51:*3.75:779.62:*3.8:1188.49:,58805~ACTIVE~3.55:108.39:*3.5:355.27:*3.45:1261.33:~3.6:26.33:*3.65:199.8:*3.7:751.18:",
+      "scoreUrl": "72340004",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8574",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253470",
+      "name": "Birmingham v Millwall",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264743132",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264743132",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 48759,
+          "name": "Birmingham",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48759"
+          }
+        },
+        {
+          "id": 56036,
+          "name": "Millwall",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "56036"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264743132\":[{\"time\":1793727540,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264743132|0|OPEN|False|11/03/2026 19:56:42|1793735803419|False|48759~ACTIVE~1.98:1095.02:*1.97:564.84:*1.96:1481.36:~1.99:848.2:*2:1700.33:*2.02:1399.13:,56036~ACTIVE~4.2:364.22:*4.1:1191.81:*4:1385.59:~4.3:578.63:*4.4:939.59:*4.5:2146.23:,58805~ACTIVE~3.8:183.71:*3.75:773.81:*3.7:757.16:~3.9:465.65:*3.95:751.28:*4:268.86:",
+      "scoreUrl": "72339984",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8593",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253471",
+      "name": "West Brom v Southampton",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264743240",
+      "marketTime": "2026-11-03T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264743240",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 100000,
+        "maxProfit": 1000000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 1703,
+          "name": "West Brom",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "1703"
+          }
+        },
+        {
+          "id": 58943,
+          "name": "Southampton",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58943"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264743240\":[{\"time\":1793727536,\"message\":\" WRONG TRADE BETS ONLY PROFIT BETS VOID HOGI\",\"isActive\":true}]}",
+      "book": "1.264743240|0|OPEN|False|11/03/2026 19:56:38|1793735799419|False|1703~ACTIVE~2.34:282.1:*2.32:634.95:*2.3:3081.55:~2.36:115.65:*2.38:1161.07:*2.4:933.31:,58943~ACTIVE~3.35:228.62:*3.3:1011.02:*3.25:665.65:~3.4:331.06:*3.45:1178.39:*3.5:991.36:,58805~ACTIVE~3.6:152:*3.55:311.22:*3.5:322.9:~3.65:271.4:*3.7:1226.74:*3.75:172.03:",
+      "scoreUrl": "72339998",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8594",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253490",
+      "name": "Wrexham v Middlesbrough",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-04T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264743348",
+      "marketTime": "2026-11-04T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264743348",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 63604,
+          "name": "Wrexham",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "63604"
+          }
+        },
+        {
+          "id": 74303,
+          "name": "Middlesbrough",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "74303"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264743348|0|OPEN|False|11/03/2026 19:47:34|1793735711437|False|63604~ACTIVE~4.8:112.65:*4.7:108.6:*4.6:516.74:~4.9:225.9:*5:472.91:*5.1:393.36:,74303~ACTIVE~1.76:161.83:*1.75:572.34:*1.74:2120.05:~1.77:331.43:*1.78:664.43:*1.79:1148.88:,58805~ACTIVE~4.4:16.83:*4.3:288.13:*4.2:566.23:~4.5:437.9:*4.6:295.49:*4.7:153.23:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253507",
+      "name": "Cardiff v West Ham",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-04T19:45:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264743498",
+      "marketTime": "2026-11-04T19:45:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264743498",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 79343,
+          "name": "Cardiff",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "79343"
+          }
+        },
+        {
+          "id": 48756,
+          "name": "West Ham",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48756"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264743498|0|OPEN|False|11/03/2026 19:56:11|1793735775387|False|79343~ACTIVE~3.3:67.57:*3.25:408.76:*3.2:370.76:~3.35:8.27:*3.4:337.76:*3.45:293.98:,48756~ACTIVE~2.18:44.33:*2.16:179.16:*2.14:361.14:~2.2:69.56:*2.22:1095.3:*2.24:1420.38:,58805~ACTIVE~4.1:191.92:*4:220.07:*3.95:109.52:~4.2:139.02:*4.3:269.91:*4.4:236.26:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "1",
+      "name": "Soccer"
+    },
+    "competition": {
+      "id": "7129730",
+      "name": "English Championship",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36253508",
+      "name": "Bristol City v Wolves",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-04T20:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264743655",
+      "marketTime": "2026-11-04T20:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264743655",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 8,
+        "mtp": 21,
+        "allowUnmatchBet": true,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 69745,
+          "name": "Bristol City",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "69745"
+          }
+        },
+        {
+          "id": 48044,
+          "name": "Wolves",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "48044"
+          }
+        },
+        {
+          "id": 58805,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "58805"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264743655|0|OPEN|False|11/03/2026 19:47:42|1793735338336|False|69745~ACTIVE~3.55:44.19:*3.5:27.34:*3.45:320.73:~3.6:21.1:*3.65:290.1:*3.7:240.3:,48044~ACTIVE~2.26:32.23:*2.24:542.29:*2.22:484.29:~2.28:58.17:*2.3:329.05:*2.32:1373.57:,58805~ACTIVE~3.55:118.72:*3.5:257.01:*3.45:170.83:~3.65:67.33:*3.7:44.36:*3.75:185.17:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842131",
+      "name": "WTA Hong Kong 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36262240",
+      "name": "L Fernandez v Sof Kenin",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T06:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264835000",
+      "marketTime": "2026-11-02T03:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264835000",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 11987709,
+          "name": "Leylah Fernandez",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "11987709"
+          }
+        },
+        {
+          "id": 9149629,
+          "name": "Sofia Kenin",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9149629"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264835000\":[{\"time\":1793733159,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264835000|0|OPEN|False|11/03/2026 19:55:27|1793735728438|False|11987709~ACTIVE~1.37:75.49:*1.36:800.01:*1.35:2104.66:~1.38:7.98:*1.39:56.06:*1.4:2052.59:,9149629~ACTIVE~3.6:7.06:*3.55:21.9:*3.5:816.98:~3.7:16.2:*3.75:131.28:*3.8:264.21:",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8564",
+      "scoreUrl": "76246640",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842131",
+      "name": "WTA Hong Kong 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36262260",
+      "name": "Ruzic v Ali Charaeva",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T06:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264835988",
+      "marketTime": "2026-11-02T03:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264835988",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 24432018,
+          "name": "Antonia Ruzic",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "24432018"
+          }
+        },
+        {
+          "id": 21651950,
+          "name": "Alina Charaeva",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "21651950"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264835988\":[{\"time\":1793733152,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264835988|0|OPEN|False|11/03/2026 19:56:00|1793735792402|False|24432018~ACTIVE~1.87:66.83:*1.86:310.41:*1.85:493.56:~1.89:25.63:*1.9:249.33:*1.91:407.48:,21651950~ACTIVE~2.12:110.08:*2.1:363.52:*2.08:146:~2.16:162.6:*2.18:890.23:*2.2:443.36:",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8546",
+      "scoreUrl": "76246628",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842155",
+      "name": "WTA Chennai 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36262637",
+      "name": "Sa Yamalapalli v Sim Waltert",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T12:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264842870",
+      "marketTime": "2026-11-02T03:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264842870",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 40027477,
+          "name": "Sahaja Yamalapalli",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "40027477"
+          }
+        },
+        {
+          "id": 10874403,
+          "name": "Simona Waltert",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10874403"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264842870\":[{\"time\":1793565038,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264842870|3|OPEN|True|11/03/2026 19:56:40|1793735803419|False|40027477~ACTIVE~7:42.41:*6.8:430.15:*6.6:153.94:~7.2:17.26:*7.4:417.78:*7.6:45.82:,10874403~ACTIVE~1.16:1889.88:*1.15:4458.31:*1.14:1651.85:~1.17:1496.09:*1.18:4353.53:*1.19:1145.39:",
+      "scoreUrl": "76256882",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8365",
+      "hasTv": "True",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36266944",
+      "name": "Hobart Hurricanes W v Melbourne Renegades W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-04T08:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264885668",
+      "marketTime": "2026-11-04T08:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264885668",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 89981477,
+          "name": "Hobart Hurricanes W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "89981477"
+          }
+        },
+        {
+          "id": 90021943,
+          "name": "Melbourne Renegades W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90021943"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264885668|0|OPEN|False|11/03/2026 19:55:10|1793735711436|False|89981477~ACTIVE~1.77:438.14:*1.76:3922.85:*1.75:1665.51:~1.8:35.53:*1.81:20.5:*1.82:3.21:,90021943~ACTIVE~2.26:16.82:*2.24:18.85:*2.22:12.01:~2.3:389.99:*2.32:4176.9:*2.34:2.99:",
+      "hasSession": "True",
+      "hasBookMaker": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35256",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "11365612",
+      "name": "Test Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36267671",
+      "name": "Bangladesh v West Indies",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-05T03:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264891407",
+      "marketTime": "2026-11-05T03:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264891407",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 7659,
+          "name": "Bangladesh",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "7659"
+          }
+        },
+        {
+          "id": 235,
+          "name": "West Indies",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "235"
+          }
+        },
+        {
+          "id": 60443,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "60443"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264891407|0|OPEN|False|11/03/2026 19:18:47|1793735710439|False|7659~ACTIVE~1.87:645.15:*1.86:2862.27:*1.85:311.98:~1.89:35.2:*1.9:14.55:*1.91:58.66:,235~ACTIVE~2.9:22.94:*2.88:3:*2.84:6.69:~2.92:56.59:*2.94:200.44:*2.96:52.13:,60443~ACTIVE~8:29.07:*7.8:265.61:*7.6:287.12:~8.2:749.78:*8.4:836.67:*8.6:11.43:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "12241523",
+      "name": "T20 Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36269512",
+      "name": "West Indies A v England Lions",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-03T17:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264908909",
+      "marketTime": "2026-11-03T17:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264908909",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 182543,
+          "name": "West Indies A",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "182543"
+          }
+        },
+        {
+          "id": 3020905,
+          "name": "England Lions",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "3020905"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264908909|5|OPEN|True|11/03/2026 19:56:43|1793735804419|False|182543~ACTIVE~3.5:61.81:*3.4:1.77:*3.35:5.93:~4.4:591.31:*4.6:39.72:*4.8:258.99:,3020905~ACTIVE~1.3:2001.35:*1.28:66.87:*1.27:1055.33:~1.32:1.61:*1.4:153.29:*1.41:4.26:",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35255",
+      "hasSession": "True",
+      "hasTv": "True",
+      "hasBookMaker": "True",
+      "messages": "{\"3334730\":[{\"time\":1793730014,\"message\":\"160-161 Wrong Commentary Bets Voided\",\"isActive\":true},{\"time\":1793730040,\"message\":\"160-161 Wrong Commentary Bets Voided ( IST 23:49:49 TO 23:50:02 )\",\"isActive\":true},{\"time\":1793730052,\"message\":\"\",\"isActive\":true},{\"time\":1793730352,\"message\":\"169-170 Wrong Commentary Bets Voided ( IST 23:55:04 TO 23:55:18 )\",\"isActive\":true},{\"time\":1793730369,\"message\":\"\",\"isActive\":true}]}",
+      "inactiveMarkets": "[\"303879\",\"3334725\",\"3334726\",\"3334727\",\"3334728\",\"3334729\",\"3334730\",\"3334735\",\"3334736\",\"3334737\",\"3334738\",\"3334739\",\"3334740\",\"3334741\",\"3334743\",\"3334744\",\"3334745\",\"3334746\",\"3334747\",\"3334748\",\"3334749\",\"3334751\",\"3334752\",\"3334753\",\"3334754\",\"3334755\",\"3334756\",\"3334757\",\"3334760\",\"3334761\",\"3334762\",\"3334763\",\"3334764\",\"3334765\",\"3334766\",\"3334767\",\"3334768\",\"3334769\",\"3334770\",\"3334771\",\"3334772\",\"3334773\",\"3334774\",\"3334775\",\"3334776\",\"3334777\",\"3334778\",\"3334785\",\"3334786\",\"3334787\",\"3334788\",\"3334789\",\"3334790\",\"3334791\",\"3334792\",\"3334793\",\"3334794\",\"3334795\",\"3334796\",\"3334800\",\"3334801\",\"3334802\",\"3334803\",\"3334804\",\"3334805\",\"3334806\",\"3334816\",\"3334817\",\"3334818\",\"3334819\",\"3334820\",\"3334821\",\"3334822\",\"3334823\",\"3334824\",\"3334825\",\"3334826\",\"3334827\",\"3334828\",\"3334829\",\"3334830\",\"3334835\",\"3334836\",\"3334837\",\"3334838\",\"3334839\",\"3334842\",\"3334843\",\"3334844\",\"3334863\",\"3334864\",\"3334865\",\"3334866\",\"3334867\",\"3334868\",\"3334869\",\"3334870\",\"3334871\",\"3334872\",\"3334873\",\"3334874\",\"3334875\",\"3334876\",\"3334877\",\"3334878\",\"3334879\",\"3334880\",\"3334881\",\"3334882\",\"3334883\",\"3334893\",\"3334894\",\"3334895\",\"3334896\",\"3334897\",\"3334900\",\"3334901\",\"3334902\",\"3334903\",\"3334907\",\"3334908\",\"3334909\",\"3334910\",\"3334911\",\"3334914\",\"3334916\",\"3334917\",\"3334918\",\"3334920\",\"3334921\",\"3334922\",\"3334924\",\"3334925\",\"3334926\",\"3334928\",\"3334929\",\"3334930\",\"3334932\",\"3334938\",\"3334940\",\"3334941\",\"43910372\",\"43910373\",\"43910374\",\"43910375\",\"43910376\",\"43910377\",\"43910378\",\"43910379\",\"43910380\",\"43910381\",\"43910382\",\"43910383\",\"43910384\",\"43910385\",\"43910386\",\"43910387\"]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36267052",
+      "name": "Adelaide Strikers W v Brisbane Heat W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-05T04:40:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264918914",
+      "marketTime": "2026-11-05T04:40:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264918914",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 90023847,
+          "name": "Adelaide Strikers W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90023847"
+          }
+        },
+        {
+          "id": 90021942,
+          "name": "Brisbane Heat W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90021942"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264918914|0|OPEN|False|11/03/2026 15:43:52|1793721061663|False|90023847~ACTIVE~1.62:5.18:*1.58:63:*1.33:287.71:~1.74:2:*1.75:3.21:*1.8:36.54:,90021942~ACTIVE~2.34:3.89:*2.24:29.36:*1.51:89.89:~2.62:3.2:*2.74:36.33:*3.95:45.86:",
+      "hasSession": "True",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10586027",
+      "name": "Ford Trophy",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36264203",
+      "name": "Wellington Firebirds v Northern Districts",
+      "countryCode": "NZ",
+      "venue": "",
+      "openDate": "2026-11-03T21:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264920351",
+      "marketTime": "2026-11-03T21:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264920351",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 6847358,
+          "name": "Wellington Firebirds",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "6847358"
+          }
+        },
+        {
+          "id": 86360,
+          "name": "Northern Districts",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "86360"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264920351|0|OPEN|False|11/03/2026 19:55:09|1793735723433|False|6847358~ACTIVE~1.83:1.13:*1.82:13.92:*1.77:71.75:~1.95:11.31:*1.96:37.73:*1.97:17.44:,86360~ACTIVE~2.06:10.71:*2.04:53.09:*2.02:17.17:~2.22:12.34:*2.3:55.21:*2.58:2.54:",
+      "hasSession": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35248",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842131",
+      "name": "WTA Hong Kong 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271193",
+      "name": "C Liu v Boulter",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T07:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264935506",
+      "marketTime": "2026-11-04T03:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264935506",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 9633041,
+          "name": "Claire Liu",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9633041"
+          }
+        },
+        {
+          "id": 8619018,
+          "name": "Katie Boulter",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "8619018"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264935506\":[{\"time\":1793733154,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264935506|0|OPEN|False|11/03/2026 19:46:34|1793735773386|False|9633041~ACTIVE~2.44:363.69:*2.42:380.48:*2.4:1.34:~2.48:5.13:*2.5:403.13:*2.54:358.53:,8619018~ACTIVE~1.68:7.57:*1.67:298.47:*1.66:306.85:~1.69:277:*1.7:520.63:*1.71:266.06:",
+      "hasTv": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8569",
+      "scoreUrl": "76136066",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "9962116",
+      "name": "One Day Internationals",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271322",
+      "name": "New Zealand v India",
+      "countryCode": "NZ",
+      "venue": "",
+      "openDate": "2026-11-04T02:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264937021",
+      "marketTime": "2026-11-04T02:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264937021",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 448,
+          "name": "New Zealand",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "448"
+          }
+        },
+        {
+          "id": 414464,
+          "name": "India",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "414464"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264937021\":[{\"time\":1793634176,\"message\":\"WBBL 2026 ..Winner Cup Bets Started In Our Exchange.......\\u2728\\u2728\\u2728\",\"isActive\":true}],\"43909941\":[{\"time\":1793634170,\"message\":\" Stop watching. Start winning \\u2014 place your bet now.\",\"isActive\":true}],\"43909942\":[{\"time\":1793634183,\"message\":\" Tennis BOOKMAKER Started In Our Exchange...\\n\",\"isActive\":true}],\"43909943\":[{\"time\":1793634186,\"message\":\" Tennis BOOKMAKER Started In Our Exchange...\\n\",\"isActive\":true}]}",
+      "book": "1.264937021|0|OPEN|False|11/03/2026 19:56:33|1793735804417|False|448~ACTIVE~2.22:13.9:*2.2:2510.08:*2.18:1313.21:~2.24:5.98:*2.26:79.64:*2.28:3019.18:,414464~ACTIVE~1.8:7.44:*1.79:2996.32:*1.78:8361.67:~1.82:813.09:*1.83:984.5:*1.84:1912.49:",
+      "hasSession": "True",
+      "hasBookMaker": "True",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/35251",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271347",
+      "name": "Sydney Thunder W v Perth Scorchers W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-05T08:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264937467",
+      "marketTime": "2026-11-05T08:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264937467",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 90023791,
+          "name": "Sydney Thunder W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90023791"
+          }
+        },
+        {
+          "id": 90213197,
+          "name": "Perth Scorchers W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90213197"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264937467|0|OPEN|False|11/03/2026 18:50:20|1793731851342|False|90023791~ACTIVE~1.78:4.12:*1.66:777.05:*1.64:518.03:~1.86:85.63:*1.87:129.51:*1.88:129.51:,90213197~ACTIVE~2.16:73.74:*2.14:113.17:*2.12:207.21:~2.3:3.19:*2.52:511.86:*2.58:329.29:",
+      "hasSession": "True",
+      "hasBookMaker": "False",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271629",
+      "name": "Ig Buse v Medvedev",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T13:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264942113",
+      "marketTime": "2026-11-04T10:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264942113",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 25215601,
+          "name": "Ignacio Buse",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "25215601"
+          }
+        },
+        {
+          "id": 19924831,
+          "name": "Daniil Medvedev",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "19924831"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264942113\":[{\"time\":1793733196,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264942113|0|OPEN|False|11/03/2026 19:30:33|1793735717435|False|25215601~ACTIVE~6.8:46.72:*6.4:408.19:*6.2:942.37:~7:140.18:*7.2:97:*7.4:892.67:,19924831~ACTIVE~1.16:6351.54:*1.15:2103.21:*1.14:3923.24:~1.17:271.51:*1.18:1498:*1.19:3420.29:",
+      "scoreUrl": "76142882",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271952",
+      "name": "A Zverev v Musetti",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T12:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264943553",
+      "marketTime": "2026-11-03T10:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264943553",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 19924823,
+          "name": "Alexander Zverev",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "19924823"
+          }
+        },
+        {
+          "id": 13834991,
+          "name": "Lorenzo Musetti",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "13834991"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264943553\":[{\"time\":1793733191,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264943553|0|OPEN|False|11/03/2026 19:50:38|1793735439364|False|19924823~ACTIVE~1.46:1025.77:*1.45:1423.92:*1.44:731:~1.47:275:*1.48:1471.53:*1.5:2002:,13834991~ACTIVE~3.1:495.4:*3.05:343.07:*3:1001:~3.15:473.58:*3.2:137.76:*3.25:501.44:",
+      "scoreUrl": "76142798",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36272396",
+      "name": "Ruud v Jodar",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-03T19:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264956689",
+      "marketTime": "2026-11-03T19:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264956689",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 9629711,
+          "name": "Casper Ruud",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9629711"
+          }
+        },
+        {
+          "id": 51053591,
+          "name": "Rafael Jodar",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "51053591"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264956689\":[{\"time\":1793663474,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264956689|0|OPEN|False|11/03/2026 19:56:38|1793735799419|False|9629711~ACTIVE~2.8:328.15:*2.78:419.31:*2.76:299.21:~2.84:71.04:*2.86:923.21:*2.88:1:,51053591~ACTIVE~1.54:1789.37:*1.53:1551.86:*1.52:2433.07:~1.55:467.68:*1.56:279.69:*1.57:1893.25:",
+      "hasTv": "True",
+      "scoreUrl": "76142878",
+      "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8444",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36272952",
+      "name": "Fils v Machac",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T19:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264970162",
+      "marketTime": "2026-11-04T10:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264970162",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 38374961,
+          "name": "Arthur Fils",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "38374961"
+          }
+        },
+        {
+          "id": 16149495,
+          "name": "Tomas Machac",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "16149495"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264970162\":[{\"time\":1793733210,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264970162|0|OPEN|False|11/03/2026 19:42:13|1793734935187|False|38374961~ACTIVE~1.58:936.07:*1.57:1467.34:*1.56:1569.41:~1.6:1.5:*1.62:33.72:*1.63:1088.38:,16149495~ACTIVE~2.62:21.75:*2.6:243:*2.58:817.29:~2.72:197.02:*2.74:617.19:*2.76:978.43:",
+      "scoreUrl": "76142868",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10529093",
+      "name": "WBBL",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36271372",
+      "name": "Melbourne Stars W v Sydney Sixers W",
+      "countryCode": "AU",
+      "venue": "",
+      "openDate": "2026-11-06T08:10:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264991012",
+      "marketTime": "2026-11-06T08:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264991012",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 90023848,
+          "name": "Melbourne Stars W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "90023848"
+          }
+        },
+        {
+          "id": 89981476,
+          "name": "Sydney Sixers W",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "89981476"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264991012|0|OPEN|False|11/03/2026 15:48:39|1793720929600|False|90023848~ACTIVE~2.52:2.11:*2.12:6.46:*2.1:78.06:~2.68:1.99:*2.74:3.19:*2.82:2:,89981476~ACTIVE~1.6:3.33:*1.58:5.54:*1.55:3.64:~1.66:3.2:*1.9:93.49:*1.98:86.28:",
+      "hasSession": "True",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10393832",
+      "name": "South Africa T20 Challenge",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274252",
+      "name": "Western Province v Lions",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-07T16:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264992178",
+      "marketTime": "2026-11-07T16:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264992178",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 105668,
+          "name": "Western Province",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "105668"
+          }
+        },
+        {
+          "id": 4294272,
+          "name": "Lions",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "4294272"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264992178|0|OPEN|False||1793726490061|False|105668~ACTIVE~1.72:15.92:*1.7:10.66:*1.6:3.33:~2.38:4:*2.4:7.44:*2.42:7.49:,4294272~ACTIVE~1.72:15.92:*1.7:10.66:*1.6:3.33:~2.38:4:*2.4:7.44:*2.42:7.49:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842131",
+      "name": "WTA Hong Kong 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274570",
+      "name": "Ta Gibson v A Sasnovich",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T07:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264998270",
+      "marketTime": "2026-11-04T07:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264998270",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 24143426,
+          "name": "Talia Gibson",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "24143426"
+          }
+        },
+        {
+          "id": 7283310,
+          "name": "Aliaksandra Sasnovich",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "7283310"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.264998270\":[{\"time\":1793733157,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.264998270|0|OPEN|False|11/03/2026 19:31:42|1793735804419|False|24143426~ACTIVE~2.6:119.2:*2.58:106.93:*2.56:201.91:~2.72:28.59:*2.74:71.02:*2.76:55.75:,7283310~ACTIVE~1.59:1:*1.58:124.54:*1.57:145.12:~1.61:1:*1.62:98.38:*1.63:179.38:",
+      "scoreUrl": "76136068",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "10393832",
+      "name": "South Africa T20 Challenge",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36273944",
+      "name": "Warriors v Boland",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-05T16:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.264999820",
+      "marketTime": "2026-11-05T16:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264999820",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 4297012,
+          "name": "Warriors",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "4297012"
+          }
+        },
+        {
+          "id": 225069,
+          "name": "Boland",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "225069"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.264999820|0|OPEN|False||1793735695436|False|4297012~ACTIVE~1.7:3.12:*1.69:5.78:*1.67:10.39:~2.44:6.17:*2.5:6.94:*2.54:7.08:,225069~ACTIVE~1.7:3.12:*1.69:5.78:*1.67:10.39:~2.44:6.17:*2.5:6.94:*2.54:7.08:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "4",
+      "name": "Cricket"
+    },
+    "competition": {
+      "id": "11365612",
+      "name": "Test Matches",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274667",
+      "name": "Afghanistan v Zimbabwe",
+      "countryCode": "GB",
+      "venue": "",
+      "openDate": "2026-11-05T05:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265000466",
+      "marketTime": "2026-11-05T05:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265000466",
+        "betLock": false,
+        "minBet": 1,
+        "maxBet": 0,
+        "maxProfit": 1,
+        "betDelay": 6,
+        "mtp": 15,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 3786094,
+          "name": "Afghanistan",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "3786094"
+          }
+        },
+        {
+          "id": 1006,
+          "name": "Zimbabwe",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "1006"
+          }
+        },
+        {
+          "id": 60443,
+          "name": "The Draw",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "60443"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "book": "1.265000466|0|OPEN|False|11/03/2026 19:02:28|1793735801418|False|3786094~ACTIVE~1.45:6.46:*1.44:3.12:*1.4:9.73:~2.12:2.99:*2.14:80.02:*2.28:3.47:,1006~ACTIVE~2.54:3.12:*2.2:50:*2.16:2.93:~5:4.64:*5.1:2.67:*7:1.37:,60443~ACTIVE~6:93.57:*5:25:*3.5:25:~14.5:4.42:*15:25:*20:115:",
+      "messages": "{}",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842131",
+      "name": "WTA Hong Kong 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274722",
+      "name": "Ma Joint v M Sakkari",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T10:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265001353",
+      "marketTime": "2026-11-04T10:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265001353",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 38310223,
+          "name": "Maya Joint",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "38310223"
+          }
+        },
+        {
+          "id": 9002331,
+          "name": "Maria Sakkari",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9002331"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265001353\":[{\"time\":1793733162,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265001353|0|OPEN|False|11/03/2026 19:09:40|1793735327352|False|38310223~ACTIVE~2.62:87.12:*2.6:112.15:*2.58:23.27:~2.7:176:*2.72:1:*2.74:9:,9002331~ACTIVE~1.58:302.48:*1.57:40.71:*1.56:54.96:~1.62:304.07:*1.63:37.72:*1.64:187.41:",
+      "scoreUrl": "76136070",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842155",
+      "name": "WTA Chennai 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36274902",
+      "name": "Robi Montgomery v Je Vandromme",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T09:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265004997",
+      "marketTime": "2026-11-04T09:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265004997",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 24143439,
+          "name": "Robin Montgomery",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "24143439"
+          }
+        },
+        {
+          "id": 72372985,
+          "name": "Jeline Vandromme",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "72372985"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265004997\":[{\"time\":1793733172,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265004997|0|OPEN|False|11/03/2026 19:49:10|1793735351314|False|24143439~ACTIVE~1.71:255.72:*1.7:524.18:*1.69:548.66:~1.72:324.34:*1.73:15.78:*1.75:10.52:,72372985~ACTIVE~2.38:238.08:*2.36:7.84:*2.32:7.94:~2.4:91:*2.42:321.82:*2.44:325.68:",
+      "scoreUrl": "76133276",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275493",
+      "name": "Halys v Tiafoe",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T10:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265013974",
+      "marketTime": "2026-11-04T09:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265013974",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 7287690,
+          "name": "Quentin Halys",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "7287690"
+          }
+        },
+        {
+          "id": 19924839,
+          "name": "Frances Tiafoe",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "19924839"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265013974\":[{\"time\":1793733181,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265013974|0|OPEN|False|11/03/2026 19:54:36|1793735706436|False|7287690~ACTIVE~2.4:10.94:*2.38:80.65:*2.34:91:~2.44:657.1:*2.46:163.3:*2.48:88.06:,19924839~ACTIVE~1.7:714.92:*1.69:356.63:*1.68:241.29:~1.71:4.18:*1.72:122.72:*1.75:270.68:",
+      "scoreUrl": "76142796",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275536",
+      "name": "Ma Bellucci v Rinderknech",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T10:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265016282",
+      "marketTime": "2026-11-04T10:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265016282",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 20357619,
+          "name": "Mattia Bellucci",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "20357619"
+          }
+        },
+        {
+          "id": 9953233,
+          "name": "Arthur Rinderknech",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9953233"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265016282\":[{\"time\":1793733184,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265016282|0|OPEN|False|11/03/2026 19:46:10|1793735171266|False|20357619~ACTIVE~1.73:357.28:*1.72:521.99:*1.7:922.75:~1.79:26:*1.8:407.81:*1.81:459.47:,9953233~ACTIVE~2.26:26.99:*2.24:692.51:*2.22:1:~2.36:182:*2.38:105.26:*2.4:348.28:",
+      "scoreUrl": "76142734",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842155",
+      "name": "WTA Chennai 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275546",
+      "name": "Tjen v J Garland",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T11:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265016516",
+      "marketTime": "2026-11-04T11:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265016516",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 19931702,
+          "name": "Janice Tjen",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "19931702"
+          }
+        },
+        {
+          "id": 11772894,
+          "name": "Joanna Garland",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "11772894"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265016516\":[{\"time\":1793733177,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265016516|0|OPEN|False|11/03/2026 19:25:24|1793733925241|False|19931702~ACTIVE~1.45:2.21:*1.43:58.69:*1.42:220.64:~1.48:88.63:*1.49:377.25:*1.5:2:,11772894~ACTIVE~3.1:27.99:*3.05:63.25:*3:138.86:~3.2:1:*3.3:12:*3.35:24.23:",
+      "scoreUrl": "76133286",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842155",
+      "name": "WTA Chennai 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275634",
+      "name": "Oks Selekhmeteva v Poli Kudermetova",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T09:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265018403",
+      "marketTime": "2026-11-04T09:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265018403",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 21651917,
+          "name": "Oksana Selekhmeteva",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "21651917"
+          }
+        },
+        {
+          "id": 20136621,
+          "name": "Polina Kudermetova",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "20136621"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265018403\":[{\"time\":1793733175,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265018403|0|OPEN|False|11/03/2026 19:04:41|1793732881158|False|21651917~ACTIVE~2.34:1.01:*2.32:19:*2.3:30.83:~2.4:175:*2.42:16:*2.44:28.72:,20136621~ACTIVE~1.71:245.61:*1.7:46.78:*1.69:35.33:~1.75:1.35:*1.76:47.05:*1.77:33.19:",
+      "scoreUrl": "76133288",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275688",
+      "name": "To Etcheverry v Alex de Minaur",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T13:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265019588",
+      "marketTime": "2026-11-04T12:40:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265019588",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 9631399,
+          "name": "Tomas Martin Etcheverry",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9631399"
+          }
+        },
+        {
+          "id": 10706482,
+          "name": "Alex De Minaur",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10706482"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265019588\":[{\"time\":1793733194,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265019588|0|OPEN|False|11/03/2026 19:30:48|1793735436363|False|9631399~ACTIVE~5:81.25:*4.9:131.8:*4.8:143.91:~5.4:11:*5.5:10:*5.6:23.06:,10706482~ACTIVE~1.22:199.61:*1.21:1689.83:*1.2:2544.28:~1.25:325:*1.26:1060.8:*1.28:3.67:",
+      "scoreUrl": "76142866",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36275744",
+      "name": "Borges v Khachanov",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T13:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265020537",
+      "marketTime": "2026-11-04T14:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265020537",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 9633043,
+          "name": "Nuno Borges",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9633043"
+          }
+        },
+        {
+          "id": 7659623,
+          "name": "Karen Khachanov",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "7659623"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265020537\":[{\"time\":1793733201,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265020537|0|OPEN|False|11/03/2026 19:43:15|1793734996225|False|9633043~ACTIVE~2.92:12:*2.9:12:*2.88:22.84:~3.05:101.05:*3.1:214.1:*3.15:186.41:,7659623~ACTIVE~1.49:206.86:*1.48:48:*1.47:802.63:~1.53:88.65:*1.55:1.82:*1.56:330.24:",
+      "scoreUrl": "76142880",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36276199",
+      "name": "Van Assche v Le Tien",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T11:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265023884",
+      "marketTime": "2026-11-04T11:10:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265023884",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 27752969,
+          "name": "Luca Van Assche",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "27752969"
+          }
+        },
+        {
+          "id": 42082091,
+          "name": "Learner Tien",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "42082091"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265023884\":[{\"time\":1793733186,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265023884|0|OPEN|False|11/03/2026 19:41:23|1793734884210|False|27752969~ACTIVE~2.88:13:*2.86:12:*2.84:70.34:~3.05:48.41:*3.1:335.24:*3.35:604.22:,42082091~ACTIVE~1.49:43.83:*1.48:366.49:*1.47:394:~1.54:152.35:*1.55:23.82:*1.57:342.41:",
+      "scoreUrl": "76142800",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36276512",
+      "name": "Berrettini v Humbert",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T16:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265025741",
+      "marketTime": "2026-11-04T15:40:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265025741",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 8962036,
+          "name": "Matteo Berrettini",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "8962036"
+          }
+        },
+        {
+          "id": 9633253,
+          "name": "Ugo Humbert",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "9633253"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265025741\":[{\"time\":1793733205,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265025741|0|OPEN|False||1793735715438|False|8962036~ACTIVE~2.04:168.14:*2.02:55.64:*2:480.44:~2.08:111.6:*2.12:51.61:*2.16:208.27:,9633253~ACTIVE~1.92:120.9:*1.9:23:*1.89:34.77:~1.96:175:*1.98:18:*1.99:38.57:",
+      "scoreUrl": "76142872",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36276800",
+      "name": "Paul v Da Merida",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T11:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265042985",
+      "marketTime": "2026-11-04T11:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265042985",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 8859306,
+          "name": "Tommy Paul",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "8859306"
+          }
+        },
+        {
+          "id": 44982571,
+          "name": "Daniel Merida",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "44982571"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265042985\":[{\"time\":1793733188,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265042985|0|OPEN|False|11/03/2026 19:30:25|1793734964193|False|8859306~ACTIVE~1.27:140.21:*1.26:138.14:*1.25:237.15:~1.3:78:*1.31:992.43:*1.32:484.36:,44982571~ACTIVE~4.3:179.79:*4.2:149.61:*4.1:156.94:~4.7:16:*4.8:36.43:*4.9:20.83:",
+      "scoreUrl": "76142794",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36276929",
+      "name": "Djokovic v Ri Hijikata",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T14:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265057195",
+      "marketTime": "2026-11-04T13:40:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265057195",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 2249229,
+          "name": "Novak Djokovic",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "2249229"
+          }
+        },
+        {
+          "id": 12343905,
+          "name": "Rinky Hijikata",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "12343905"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265057195\":[{\"time\":1793733199,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265057195|0|OPEN|False|11/03/2026 19:54:35|1793735676444|False|2249229~ACTIVE~1.26:784.69:*1.24:86:*1.23:1257.87:~1.27:87.88:*1.28:614.18:*1.29:1953.92:,12343905~ACTIVE~4.7:48.97:*4.5:281.57:*4.4:437.62:~4.8:205.98:*5.2:31.51:*5.3:124.09:",
+      "scoreUrl": "76142864",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842155",
+      "name": "WTA Chennai 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36277309",
+      "name": "Wer Falkowska v M Rajeshwaran Revathi",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T11:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265059329",
+      "marketTime": "2026-11-04T11:30:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265059329",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 10992647,
+          "name": "Weronika Falkowska",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10992647"
+          }
+        },
+        {
+          "id": 79617632,
+          "name": "Maaya Rajeshwaran Revat",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "79617632"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265059329\":[{\"time\":1793733179,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265059329|0|OPEN|False|11/03/2026 19:45:55|1793735652435|False|10992647~ACTIVE~1.57:37.96:*1.56:37.26:*1.55:130.19:~1.62:36.56:*1.63:37.95:*1.64:246.11:,79617632~ACTIVE~2.62:9:*2.6:23.71:*2.58:92.12:~2.74:8:*2.76:13.65:*2.78:8:",
+      "scoreUrl": "76133278",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36277495",
+      "name": "Molcan v Fritz",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T14:30:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265065177",
+      "marketTime": "2026-11-04T13:50:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265065177",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 8960879,
+          "name": "Alex Molcan",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "8960879"
+          }
+        },
+        {
+          "id": 10279360,
+          "name": "Taylor Fritz",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10279360"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265065177\":[{\"time\":1793733203,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265065177|0|OPEN|False||1793735529376|False|8960879~ACTIVE~4.2:511.21:*1.1:1.3:*1.06:2234.97:~6:33.55:*7.8:543.92:*8.8:401.79:,10279360~ACTIVE~1.2:167.77:*1.15:3689.19:*1.13:3128.96:~1.31:1638.98:*18:131.74:*21:111.75:",
+      "scoreUrl": "76142870",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  },
+  {
+    "eventType": {
+      "id": "2",
+      "name": "Tennis"
+    },
+    "competition": {
+      "id": "12842240",
+      "name": "ATP Paris 2026",
+      "provider": "BETFAIR"
+    },
+    "event": {
+      "id": "36277500",
+      "name": "Al Michelsen v Carlos Alcaraz",
+      "countryCode": "",
+      "venue": "",
+      "openDate": "2026-11-04T18:00:00Z"
+    },
+    "catalogue": {
+      "marketId": "1.265065266",
+      "marketTime": "2026-11-04T18:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.265065266",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": false,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 38374924,
+          "name": "Alex Michelsen",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "38374924"
+          }
+        },
+        {
+          "id": 25215583,
+          "name": "Carlos Alcaraz",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "25215583"
+          }
+        }
+      ]
+    },
+    "recordType": "MARKET",
+    "isActive": true,
+    "isArchived": false,
+    "metadata": {
+      "messages": "{\"1.265065266\":[{\"time\":1793733208,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+      "book": "1.265065266|0|OPEN|False||1793735735429|False|38374924~ACTIVE~4.4:90.15:*4.2:2.98:*4.1:695.81:~6:1.28:*6.2:50:*6.4:387.86:,25215583~ACTIVE~1.2:6.4:*1.19:2346.48:*1.17:2830.96:~1.29:307.5:*1.32:2170.7:*1.39:312.9:",
+      "scoreUrl": "76142874",
+      "inactiveMarkets": "[]",
+      "archivedMarkets": "[]"
+    }
+  }
+]

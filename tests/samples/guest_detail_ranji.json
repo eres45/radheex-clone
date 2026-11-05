@@ -1,0 +1,1572 @@
+{
+  "event": {
+    "id": "-11239905",
+    "name": "Himachal Pradesh V  Rajasthan"
+  },
+  "eventType": {
+    "id": "4",
+    "name": "Cricket"
+  },
+  "competition": {
+    "id": "11417032",
+    "name": "Ranji Trophy"
+  },
+  "isActive": true,
+  "catalogues": [
+    {
+      "marketId": "1000001",
+      "marketName": "Bookmaker",
+      "marketType": "BOOKMAKER",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "101",
+          "name": "Himachal Pradesh"
+        },
+        {
+          "id": "102",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000000",
+      "marketName": "Toss Winner 0",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2001",
+          "name": "Himachal"
+        },
+        {
+          "id": "2002",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000001",
+      "marketName": "Toss Winner 1",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2011",
+          "name": "Himachal"
+        },
+        {
+          "id": "2012",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000002",
+      "marketName": "Toss Winner 2",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2021",
+          "name": "Himachal"
+        },
+        {
+          "id": "2022",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000003",
+      "marketName": "Toss Winner 3",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2031",
+          "name": "Himachal"
+        },
+        {
+          "id": "2032",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000004",
+      "marketName": "Toss Winner 4",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2041",
+          "name": "Himachal"
+        },
+        {
+          "id": "2042",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000005",
+      "marketName": "Toss Winner 5",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2051",
+          "name": "Himachal"
+        },
+        {
+          "id": "2052",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000006",
+      "marketName": "Toss Winner 6",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2061",
+          "name": "Himachal"
+        },
+        {
+          "id": "2062",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000007",
+      "marketName": "Toss Winner 7",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2071",
+          "name": "Himachal"
+        },
+        {
+          "id": "2072",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000008",
+      "marketName": "Toss Winner 8",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2081",
+          "name": "Himachal"
+        },
+        {
+          "id": "2082",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "2000009",
+      "marketName": "Toss Winner 9",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "2091",
+          "name": "Himachal"
+        },
+        {
+          "id": "2092",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000010",
+      "marketName": "Toss Winner 10",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20101",
+          "name": "Himachal"
+        },
+        {
+          "id": "20102",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000011",
+      "marketName": "Toss Winner 11",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20111",
+          "name": "Himachal"
+        },
+        {
+          "id": "20112",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000012",
+      "marketName": "Toss Winner 12",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20121",
+          "name": "Himachal"
+        },
+        {
+          "id": "20122",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000013",
+      "marketName": "Toss Winner 13",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20131",
+          "name": "Himachal"
+        },
+        {
+          "id": "20132",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000014",
+      "marketName": "Toss Winner 14",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20141",
+          "name": "Himachal"
+        },
+        {
+          "id": "20142",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000015",
+      "marketName": "Toss Winner 15",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20151",
+          "name": "Himachal"
+        },
+        {
+          "id": "20152",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000016",
+      "marketName": "Toss Winner 16",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20161",
+          "name": "Himachal"
+        },
+        {
+          "id": "20162",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "20000017",
+      "marketName": "Toss Winner 17",
+      "marketType": "WINNING_ODDS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "20171",
+          "name": "Himachal"
+        },
+        {
+          "id": "20172",
+          "name": "Rajasthan"
+        }
+      ]
+    },
+    {
+      "marketId": "3333712",
+      "marketName": "20 Over  RAJ  (2)",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3333712",
+          "name": "20 Over  RAJ  (2)"
+        }
+      ]
+    },
+    {
+      "marketId": "3000001",
+      "marketName": "Over 1 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000001",
+          "name": "Over 1 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000002",
+      "marketName": "Over 2 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000002",
+          "name": "Over 2 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000003",
+      "marketName": "Over 3 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000003",
+          "name": "Over 3 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000004",
+      "marketName": "Over 4 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000004",
+          "name": "Over 4 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000005",
+      "marketName": "Over 5 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000005",
+          "name": "Over 5 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000006",
+      "marketName": "Over 6 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000006",
+          "name": "Over 6 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000007",
+      "marketName": "Over 7 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000007",
+          "name": "Over 7 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000008",
+      "marketName": "Over 8 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000008",
+          "name": "Over 8 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "3000009",
+      "marketName": "Over 9 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "3000009",
+          "name": "Over 9 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000010",
+      "marketName": "Over 10 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000010",
+          "name": "Over 10 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000011",
+      "marketName": "Over 11 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000011",
+          "name": "Over 11 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000012",
+      "marketName": "Over 12 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000012",
+          "name": "Over 12 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000013",
+      "marketName": "Over 13 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000013",
+          "name": "Over 13 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000014",
+      "marketName": "Over 14 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000014",
+          "name": "Over 14 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000015",
+      "marketName": "Over 15 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000015",
+          "name": "Over 15 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000016",
+      "marketName": "Over 16 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000016",
+          "name": "Over 16 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000017",
+      "marketName": "Over 17 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000017",
+          "name": "Over 17 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000018",
+      "marketName": "Over 18 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000018",
+          "name": "Over 18 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000019",
+      "marketName": "Over 19 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000019",
+          "name": "Over 19 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000020",
+      "marketName": "Over 20 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000020",
+          "name": "Over 20 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000021",
+      "marketName": "Over 21 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000021",
+          "name": "Over 21 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000022",
+      "marketName": "Over 22 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000022",
+          "name": "Over 22 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000023",
+      "marketName": "Over 23 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000023",
+          "name": "Over 23 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000024",
+      "marketName": "Over 24 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000024",
+          "name": "Over 24 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000025",
+      "marketName": "Over 25 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000025",
+          "name": "Over 25 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000026",
+      "marketName": "Over 26 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000026",
+          "name": "Over 26 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000027",
+      "marketName": "Over 27 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000027",
+          "name": "Over 27 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000028",
+      "marketName": "Over 28 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000028",
+          "name": "Over 28 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000029",
+      "marketName": "Over 29 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000029",
+          "name": "Over 29 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000030",
+      "marketName": "Over 30 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000030",
+          "name": "Over 30 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000031",
+      "marketName": "Over 31 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000031",
+          "name": "Over 31 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000032",
+      "marketName": "Over 32 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000032",
+          "name": "Over 32 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "30000033",
+      "marketName": "Over 33 RAJ",
+      "marketType": "OVERS",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "30000033",
+          "name": "Over 33 RAJ"
+        }
+      ]
+    },
+    {
+      "marketId": "4000000",
+      "marketName": "Batsman Runs 0",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000000",
+          "name": "Batsman Runs 0"
+        }
+      ]
+    },
+    {
+      "marketId": "4000001",
+      "marketName": "Batsman Runs 1",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000001",
+          "name": "Batsman Runs 1"
+        }
+      ]
+    },
+    {
+      "marketId": "4000002",
+      "marketName": "Batsman Runs 2",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000002",
+          "name": "Batsman Runs 2"
+        }
+      ]
+    },
+    {
+      "marketId": "4000003",
+      "marketName": "Batsman Runs 3",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000003",
+          "name": "Batsman Runs 3"
+        }
+      ]
+    },
+    {
+      "marketId": "4000004",
+      "marketName": "Batsman Runs 4",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000004",
+          "name": "Batsman Runs 4"
+        }
+      ]
+    },
+    {
+      "marketId": "4000005",
+      "marketName": "Batsman Runs 5",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000005",
+          "name": "Batsman Runs 5"
+        }
+      ]
+    },
+    {
+      "marketId": "4000006",
+      "marketName": "Batsman Runs 6",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000006",
+          "name": "Batsman Runs 6"
+        }
+      ]
+    },
+    {
+      "marketId": "4000007",
+      "marketName": "Batsman Runs 7",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000007",
+          "name": "Batsman Runs 7"
+        }
+      ]
+    },
+    {
+      "marketId": "4000008",
+      "marketName": "Batsman Runs 8",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000008",
+          "name": "Batsman Runs 8"
+        }
+      ]
+    },
+    {
+      "marketId": "4000009",
+      "marketName": "Batsman Runs 9",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "4000009",
+          "name": "Batsman Runs 9"
+        }
+      ]
+    },
+    {
+      "marketId": "40000010",
+      "marketName": "Batsman Runs 10",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000010",
+          "name": "Batsman Runs 10"
+        }
+      ]
+    },
+    {
+      "marketId": "40000011",
+      "marketName": "Batsman Runs 11",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000011",
+          "name": "Batsman Runs 11"
+        }
+      ]
+    },
+    {
+      "marketId": "40000012",
+      "marketName": "Batsman Runs 12",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000012",
+          "name": "Batsman Runs 12"
+        }
+      ]
+    },
+    {
+      "marketId": "40000013",
+      "marketName": "Batsman Runs 13",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000013",
+          "name": "Batsman Runs 13"
+        }
+      ]
+    },
+    {
+      "marketId": "40000014",
+      "marketName": "Batsman Runs 14",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000014",
+          "name": "Batsman Runs 14"
+        }
+      ]
+    },
+    {
+      "marketId": "40000015",
+      "marketName": "Batsman Runs 15",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000015",
+          "name": "Batsman Runs 15"
+        }
+      ]
+    },
+    {
+      "marketId": "40000016",
+      "marketName": "Batsman Runs 16",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000016",
+          "name": "Batsman Runs 16"
+        }
+      ]
+    },
+    {
+      "marketId": "40000017",
+      "marketName": "Batsman Runs 17",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000017",
+          "name": "Batsman Runs 17"
+        }
+      ]
+    },
+    {
+      "marketId": "40000018",
+      "marketName": "Batsman Runs 18",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000018",
+          "name": "Batsman Runs 18"
+        }
+      ]
+    },
+    {
+      "marketId": "40000019",
+      "marketName": "Batsman Runs 19",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000019",
+          "name": "Batsman Runs 19"
+        }
+      ]
+    },
+    {
+      "marketId": "40000020",
+      "marketName": "Batsman Runs 20",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000020",
+          "name": "Batsman Runs 20"
+        }
+      ]
+    },
+    {
+      "marketId": "40000021",
+      "marketName": "Batsman Runs 21",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000021",
+          "name": "Batsman Runs 21"
+        }
+      ]
+    },
+    {
+      "marketId": "40000022",
+      "marketName": "Batsman Runs 22",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000022",
+          "name": "Batsman Runs 22"
+        }
+      ]
+    },
+    {
+      "marketId": "40000023",
+      "marketName": "Batsman Runs 23",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000023",
+          "name": "Batsman Runs 23"
+        }
+      ]
+    },
+    {
+      "marketId": "40000024",
+      "marketName": "Batsman Runs 24",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000024",
+          "name": "Batsman Runs 24"
+        }
+      ]
+    },
+    {
+      "marketId": "40000025",
+      "marketName": "Batsman Runs 25",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000025",
+          "name": "Batsman Runs 25"
+        }
+      ]
+    },
+    {
+      "marketId": "40000026",
+      "marketName": "Batsman Runs 26",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000026",
+          "name": "Batsman Runs 26"
+        }
+      ]
+    },
+    {
+      "marketId": "40000027",
+      "marketName": "Batsman Runs 27",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000027",
+          "name": "Batsman Runs 27"
+        }
+      ]
+    },
+    {
+      "marketId": "40000028",
+      "marketName": "Batsman Runs 28",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000028",
+          "name": "Batsman Runs 28"
+        }
+      ]
+    },
+    {
+      "marketId": "40000029",
+      "marketName": "Batsman Runs 29",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000029",
+          "name": "Batsman Runs 29"
+        }
+      ]
+    },
+    {
+      "marketId": "40000030",
+      "marketName": "Batsman Runs 30",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000030",
+          "name": "Batsman Runs 30"
+        }
+      ]
+    },
+    {
+      "marketId": "40000031",
+      "marketName": "Batsman Runs 31",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000031",
+          "name": "Batsman Runs 31"
+        }
+      ]
+    },
+    {
+      "marketId": "40000032",
+      "marketName": "Batsman Runs 32",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000032",
+          "name": "Batsman Runs 32"
+        }
+      ]
+    },
+    {
+      "marketId": "40000033",
+      "marketName": "Batsman Runs 33",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000033",
+          "name": "Batsman Runs 33"
+        }
+      ]
+    },
+    {
+      "marketId": "40000034",
+      "marketName": "Batsman Runs 34",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000034",
+          "name": "Batsman Runs 34"
+        }
+      ]
+    },
+    {
+      "marketId": "40000035",
+      "marketName": "Batsman Runs 35",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000035",
+          "name": "Batsman Runs 35"
+        }
+      ]
+    },
+    {
+      "marketId": "40000036",
+      "marketName": "Batsman Runs 36",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000036",
+          "name": "Batsman Runs 36"
+        }
+      ]
+    },
+    {
+      "marketId": "40000037",
+      "marketName": "Batsman Runs 37",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000037",
+          "name": "Batsman Runs 37"
+        }
+      ]
+    },
+    {
+      "marketId": "40000038",
+      "marketName": "Batsman Runs 38",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000038",
+          "name": "Batsman Runs 38"
+        }
+      ]
+    },
+    {
+      "marketId": "40000039",
+      "marketName": "Batsman Runs 39",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000039",
+          "name": "Batsman Runs 39"
+        }
+      ]
+    },
+    {
+      "marketId": "40000040",
+      "marketName": "Batsman Runs 40",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000040",
+          "name": "Batsman Runs 40"
+        }
+      ]
+    },
+    {
+      "marketId": "40000041",
+      "marketName": "Batsman Runs 41",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000041",
+          "name": "Batsman Runs 41"
+        }
+      ]
+    },
+    {
+      "marketId": "40000042",
+      "marketName": "Batsman Runs 42",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000042",
+          "name": "Batsman Runs 42"
+        }
+      ]
+    },
+    {
+      "marketId": "40000043",
+      "marketName": "Batsman Runs 43",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000043",
+          "name": "Batsman Runs 43"
+        }
+      ]
+    },
+    {
+      "marketId": "40000044",
+      "marketName": "Batsman Runs 44",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000044",
+          "name": "Batsman Runs 44"
+        }
+      ]
+    },
+    {
+      "marketId": "40000045",
+      "marketName": "Batsman Runs 45",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000045",
+          "name": "Batsman Runs 45"
+        }
+      ]
+    },
+    {
+      "marketId": "40000046",
+      "marketName": "Batsman Runs 46",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000046",
+          "name": "Batsman Runs 46"
+        }
+      ]
+    },
+    {
+      "marketId": "40000047",
+      "marketName": "Batsman Runs 47",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000047",
+          "name": "Batsman Runs 47"
+        }
+      ]
+    },
+    {
+      "marketId": "40000048",
+      "marketName": "Batsman Runs 48",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000048",
+          "name": "Batsman Runs 48"
+        }
+      ]
+    },
+    {
+      "marketId": "40000049",
+      "marketName": "Batsman Runs 49",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000049",
+          "name": "Batsman Runs 49"
+        }
+      ]
+    },
+    {
+      "marketId": "40000050",
+      "marketName": "Batsman Runs 50",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000050",
+          "name": "Batsman Runs 50"
+        }
+      ]
+    },
+    {
+      "marketId": "40000051",
+      "marketName": "Batsman Runs 51",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000051",
+          "name": "Batsman Runs 51"
+        }
+      ]
+    },
+    {
+      "marketId": "40000052",
+      "marketName": "Batsman Runs 52",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000052",
+          "name": "Batsman Runs 52"
+        }
+      ]
+    },
+    {
+      "marketId": "40000053",
+      "marketName": "Batsman Runs 53",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000053",
+          "name": "Batsman Runs 53"
+        }
+      ]
+    },
+    {
+      "marketId": "40000054",
+      "marketName": "Batsman Runs 54",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000054",
+          "name": "Batsman Runs 54"
+        }
+      ]
+    },
+    {
+      "marketId": "40000055",
+      "marketName": "Batsman Runs 55",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000055",
+          "name": "Batsman Runs 55"
+        }
+      ]
+    },
+    {
+      "marketId": "40000056",
+      "marketName": "Batsman Runs 56",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000056",
+          "name": "Batsman Runs 56"
+        }
+      ]
+    },
+    {
+      "marketId": "40000057",
+      "marketName": "Batsman Runs 57",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000057",
+          "name": "Batsman Runs 57"
+        }
+      ]
+    },
+    {
+      "marketId": "40000058",
+      "marketName": "Batsman Runs 58",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000058",
+          "name": "Batsman Runs 58"
+        }
+      ]
+    },
+    {
+      "marketId": "40000059",
+      "marketName": "Batsman Runs 59",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000059",
+          "name": "Batsman Runs 59"
+        }
+      ]
+    },
+    {
+      "marketId": "40000060",
+      "marketName": "Batsman Runs 60",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000060",
+          "name": "Batsman Runs 60"
+        }
+      ]
+    },
+    {
+      "marketId": "40000061",
+      "marketName": "Batsman Runs 61",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000061",
+          "name": "Batsman Runs 61"
+        }
+      ]
+    },
+    {
+      "marketId": "40000062",
+      "marketName": "Batsman Runs 62",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000062",
+          "name": "Batsman Runs 62"
+        }
+      ]
+    },
+    {
+      "marketId": "40000063",
+      "marketName": "Batsman Runs 63",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000063",
+          "name": "Batsman Runs 63"
+        }
+      ]
+    },
+    {
+      "marketId": "40000064",
+      "marketName": "Batsman Runs 64",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000064",
+          "name": "Batsman Runs 64"
+        }
+      ]
+    },
+    {
+      "marketId": "40000065",
+      "marketName": "Batsman Runs 65",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000065",
+          "name": "Batsman Runs 65"
+        }
+      ]
+    },
+    {
+      "marketId": "40000066",
+      "marketName": "Batsman Runs 66",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000066",
+          "name": "Batsman Runs 66"
+        }
+      ]
+    },
+    {
+      "marketId": "40000067",
+      "marketName": "Batsman Runs 67",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000067",
+          "name": "Batsman Runs 67"
+        }
+      ]
+    },
+    {
+      "marketId": "40000068",
+      "marketName": "Batsman Runs 68",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000068",
+          "name": "Batsman Runs 68"
+        }
+      ]
+    },
+    {
+      "marketId": "40000069",
+      "marketName": "Batsman Runs 69",
+      "marketType": "BATSMAN",
+      "status": "OPEN",
+      "runners": [
+        {
+          "id": "40000069",
+          "name": "Batsman Runs 69"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "books": "{\"1000001\": \"1000001|0|OPEN|False|11/03/2026 04:26:13|1|False|101~ACTIVE~90:100:~95:100:,102~ACTIVE~105:100:~110:100:\", \"2000000\": \"2000000|0|OPEN|False|11/03/2026 04:26:13|1|False|2001~ACTIVE~1.9:100:~1.95:100:,2002~ACTIVE~1.9:100:~1.95:100:\", \"2000001\": \"2000001|0|OPEN|False|11/03/2026 04:26:13|1|False|2011~ACTIVE~1.9:100:~1.95:100:,2012~ACTIVE~1.9:100:~1.95:100:\", \"2000002\": \"2000002|0|OPEN|False|11/03/2026 04:26:13|1|False|2021~ACTIVE~1.9:100:~1.95:100:,2022~ACTIVE~1.9:100:~1.95:100:\", \"2000003\": \"2000003|0|OPEN|False|11/03/2026 04:26:13|1|False|2031~ACTIVE~1.9:100:~1.95:100:,2032~ACTIVE~1.9:100:~1.95:100:\", \"2000004\": \"2000004|0|OPEN|False|11/03/2026 04:26:13|1|False|2041~ACTIVE~1.9:100:~1.95:100:,2042~ACTIVE~1.9:100:~1.95:100:\", \"2000005\": \"2000005|0|OPEN|False|11/03/2026 04:26:13|1|False|2051~ACTIVE~1.9:100:~1.95:100:,2052~ACTIVE~1.9:100:~1.95:100:\", \"2000006\": \"2000006|0|OPEN|False|11/03/2026 04:26:13|1|False|2061~ACTIVE~1.9:100:~1.95:100:,2062~ACTIVE~1.9:100:~1.95:100:\", \"2000007\": \"2000007|0|OPEN|False|11/03/2026 04:26:13|1|False|2071~ACTIVE~1.9:100:~1.95:100:,2072~ACTIVE~1.9:100:~1.95:100:\", \"2000008\": \"2000008|0|OPEN|False|11/03/2026 04:26:13|1|False|2081~ACTIVE~1.9:100:~1.95:100:,2082~ACTIVE~1.9:100:~1.95:100:\", \"2000009\": \"2000009|0|OPEN|False|11/03/2026 04:26:13|1|False|2091~ACTIVE~1.9:100:~1.95:100:,2092~ACTIVE~1.9:100:~1.95:100:\", \"20000010\": \"20000010|0|OPEN|False|11/03/2026 04:26:13|1|False|20101~ACTIVE~1.9:100:~1.95:100:,20102~ACTIVE~1.9:100:~1.95:100:\", \"20000011\": \"20000011|0|OPEN|False|11/03/2026 04:26:13|1|False|20111~ACTIVE~1.9:100:~1.95:100:,20112~ACTIVE~1.9:100:~1.95:100:\", \"20000012\": \"20000012|0|OPEN|False|11/03/2026 04:26:13|1|False|20121~ACTIVE~1.9:100:~1.95:100:,20122~ACTIVE~1.9:100:~1.95:100:\", \"20000013\": \"20000013|0|OPEN|False|11/03/2026 04:26:13|1|False|20131~ACTIVE~1.9:100:~1.95:100:,20132~ACTIVE~1.9:100:~1.95:100:\", \"20000014\": \"20000014|0|OPEN|False|11/03/2026 04:26:13|1|False|20141~ACTIVE~1.9:100:~1.95:100:,20142~ACTIVE~1.9:100:~1.95:100:\", \"20000015\": \"20000015|0|OPEN|False|11/03/2026 04:26:13|1|False|20151~ACTIVE~1.9:100:~1.95:100:,20152~ACTIVE~1.9:100:~1.95:100:\", \"20000016\": \"20000016|0|OPEN|False|11/03/2026 04:26:13|1|False|20161~ACTIVE~1.9:100:~1.95:100:,20162~ACTIVE~1.9:100:~1.95:100:\", \"20000017\": \"20000017|0|OPEN|False|11/03/2026 04:26:13|1|False|20171~ACTIVE~1.9:100:~1.95:100:,20172~ACTIVE~1.9:100:~1.95:100:\", \"3333712\": \"3333712|0|OPEN|False|11/03/2026 04:26:13|1|False|3333712~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000001\": \"3000001|0|OPEN|False|11/03/2026 04:26:13|1|False|3000001~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000002\": \"3000002|0|OPEN|False|11/03/2026 04:26:13|1|False|3000002~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000003\": \"3000003|0|OPEN|False|11/03/2026 04:26:13|1|False|3000003~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000004\": \"3000004|0|OPEN|False|11/03/2026 04:26:13|1|False|3000004~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000005\": \"3000005|0|OPEN|False|11/03/2026 04:26:13|1|False|3000005~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000006\": \"3000006|0|OPEN|False|11/03/2026 04:26:13|1|False|3000006~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000007\": \"3000007|0|OPEN|False|11/03/2026 04:26:13|1|False|3000007~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000008\": \"3000008|0|OPEN|False|11/03/2026 04:26:13|1|False|3000008~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"3000009\": \"3000009|0|OPEN|False|11/03/2026 04:26:13|1|False|3000009~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000010\": \"30000010|0|OPEN|False|11/03/2026 04:26:13|1|False|30000010~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000011\": \"30000011|0|OPEN|False|11/03/2026 04:26:13|1|False|30000011~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000012\": \"30000012|0|OPEN|False|11/03/2026 04:26:13|1|False|30000012~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000013\": \"30000013|0|OPEN|False|11/03/2026 04:26:13|1|False|30000013~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000014\": \"30000014|0|OPEN|False|11/03/2026 04:26:13|1|False|30000014~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000015\": \"30000015|0|OPEN|False|11/03/2026 04:26:13|1|False|30000015~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000016\": \"30000016|0|OPEN|False|11/03/2026 04:26:13|1|False|30000016~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000017\": \"30000017|0|OPEN|False|11/03/2026 04:26:13|1|False|30000017~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000018\": \"30000018|0|OPEN|False|11/03/2026 04:26:13|1|False|30000018~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000019\": \"30000019|0|OPEN|False|11/03/2026 04:26:13|1|False|30000019~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000020\": \"30000020|0|OPEN|False|11/03/2026 04:26:13|1|False|30000020~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000021\": \"30000021|0|OPEN|False|11/03/2026 04:26:13|1|False|30000021~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000022\": \"30000022|0|OPEN|False|11/03/2026 04:26:13|1|False|30000022~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000023\": \"30000023|0|OPEN|False|11/03/2026 04:26:13|1|False|30000023~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000024\": \"30000024|0|OPEN|False|11/03/2026 04:26:13|1|False|30000024~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000025\": \"30000025|0|OPEN|False|11/03/2026 04:26:13|1|False|30000025~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000026\": \"30000026|0|OPEN|False|11/03/2026 04:26:13|1|False|30000026~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000027\": \"30000027|0|OPEN|False|11/03/2026 04:26:13|1|False|30000027~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000028\": \"30000028|0|OPEN|False|11/03/2026 04:26:13|1|False|30000028~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000029\": \"30000029|0|OPEN|False|11/03/2026 04:26:13|1|False|30000029~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000030\": \"30000030|0|OPEN|False|11/03/2026 04:26:13|1|False|30000030~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000031\": \"30000031|0|OPEN|False|11/03/2026 04:26:13|1|False|30000031~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000032\": \"30000032|0|OPEN|False|11/03/2026 04:26:13|1|False|30000032~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"30000033\": \"30000033|0|OPEN|False|11/03/2026 04:26:13|1|False|30000033~ACTIVE~100.0:0.0:71~100.0:0.0:70\", \"4000000\": \"4000000|0|OPEN|False|11/03/2026 04:26:13|1|False|4000000~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000001\": \"4000001|0|OPEN|False|11/03/2026 04:26:13|1|False|4000001~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000002\": \"4000002|0|OPEN|False|11/03/2026 04:26:13|1|False|4000002~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000003\": \"4000003|0|OPEN|False|11/03/2026 04:26:13|1|False|4000003~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000004\": \"4000004|0|OPEN|False|11/03/2026 04:26:13|1|False|4000004~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000005\": \"4000005|0|OPEN|False|11/03/2026 04:26:13|1|False|4000005~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000006\": \"4000006|0|OPEN|False|11/03/2026 04:26:13|1|False|4000006~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000007\": \"4000007|0|OPEN|False|11/03/2026 04:26:13|1|False|4000007~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000008\": \"4000008|0|OPEN|False|11/03/2026 04:26:13|1|False|4000008~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"4000009\": \"4000009|0|OPEN|False|11/03/2026 04:26:13|1|False|4000009~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000010\": \"40000010|0|OPEN|False|11/03/2026 04:26:13|1|False|40000010~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000011\": \"40000011|0|OPEN|False|11/03/2026 04:26:13|1|False|40000011~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000012\": \"40000012|0|OPEN|False|11/03/2026 04:26:13|1|False|40000012~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000013\": \"40000013|0|OPEN|False|11/03/2026 04:26:13|1|False|40000013~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000014\": \"40000014|0|OPEN|False|11/03/2026 04:26:13|1|False|40000014~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000015\": \"40000015|0|OPEN|False|11/03/2026 04:26:13|1|False|40000015~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000016\": \"40000016|0|OPEN|False|11/03/2026 04:26:13|1|False|40000016~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000017\": \"40000017|0|OPEN|False|11/03/2026 04:26:13|1|False|40000017~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000018\": \"40000018|0|OPEN|False|11/03/2026 04:26:13|1|False|40000018~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000019\": \"40000019|0|OPEN|False|11/03/2026 04:26:13|1|False|40000019~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000020\": \"40000020|0|OPEN|False|11/03/2026 04:26:13|1|False|40000020~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000021\": \"40000021|0|OPEN|False|11/03/2026 04:26:13|1|False|40000021~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000022\": \"40000022|0|OPEN|False|11/03/2026 04:26:13|1|False|40000022~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000023\": \"40000023|0|OPEN|False|11/03/2026 04:26:13|1|False|40000023~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000024\": \"40000024|0|OPEN|False|11/03/2026 04:26:13|1|False|40000024~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000025\": \"40000025|0|OPEN|False|11/03/2026 04:26:13|1|False|40000025~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000026\": \"40000026|0|OPEN|False|11/03/2026 04:26:13|1|False|40000026~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000027\": \"40000027|0|OPEN|False|11/03/2026 04:26:13|1|False|40000027~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000028\": \"40000028|0|OPEN|False|11/03/2026 04:26:13|1|False|40000028~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000029\": \"40000029|0|OPEN|False|11/03/2026 04:26:13|1|False|40000029~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000030\": \"40000030|0|OPEN|False|11/03/2026 04:26:13|1|False|40000030~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000031\": \"40000031|0|OPEN|False|11/03/2026 04:26:13|1|False|40000031~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000032\": \"40000032|0|OPEN|False|11/03/2026 04:26:13|1|False|40000032~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000033\": \"40000033|0|OPEN|False|11/03/2026 04:26:13|1|False|40000033~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000034\": \"40000034|0|OPEN|False|11/03/2026 04:26:13|1|False|40000034~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000035\": \"40000035|0|OPEN|False|11/03/2026 04:26:13|1|False|40000035~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000036\": \"40000036|0|OPEN|False|11/03/2026 04:26:13|1|False|40000036~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000037\": \"40000037|0|OPEN|False|11/03/2026 04:26:13|1|False|40000037~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000038\": \"40000038|0|OPEN|False|11/03/2026 04:26:13|1|False|40000038~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000039\": \"40000039|0|OPEN|False|11/03/2026 04:26:13|1|False|40000039~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000040\": \"40000040|0|OPEN|False|11/03/2026 04:26:13|1|False|40000040~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000041\": \"40000041|0|OPEN|False|11/03/2026 04:26:13|1|False|40000041~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000042\": \"40000042|0|OPEN|False|11/03/2026 04:26:13|1|False|40000042~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000043\": \"40000043|0|OPEN|False|11/03/2026 04:26:13|1|False|40000043~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000044\": \"40000044|0|OPEN|False|11/03/2026 04:26:13|1|False|40000044~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000045\": \"40000045|0|OPEN|False|11/03/2026 04:26:13|1|False|40000045~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000046\": \"40000046|0|OPEN|False|11/03/2026 04:26:13|1|False|40000046~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000047\": \"40000047|0|OPEN|False|11/03/2026 04:26:13|1|False|40000047~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000048\": \"40000048|0|OPEN|False|11/03/2026 04:26:13|1|False|40000048~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000049\": \"40000049|0|OPEN|False|11/03/2026 04:26:13|1|False|40000049~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000050\": \"40000050|0|OPEN|False|11/03/2026 04:26:13|1|False|40000050~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000051\": \"40000051|0|OPEN|False|11/03/2026 04:26:13|1|False|40000051~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000052\": \"40000052|0|OPEN|False|11/03/2026 04:26:13|1|False|40000052~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000053\": \"40000053|0|OPEN|False|11/03/2026 04:26:13|1|False|40000053~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000054\": \"40000054|0|OPEN|False|11/03/2026 04:26:13|1|False|40000054~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000055\": \"40000055|0|OPEN|False|11/03/2026 04:26:13|1|False|40000055~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000056\": \"40000056|0|OPEN|False|11/03/2026 04:26:13|1|False|40000056~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000057\": \"40000057|0|OPEN|False|11/03/2026 04:26:13|1|False|40000057~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000058\": \"40000058|0|OPEN|False|11/03/2026 04:26:13|1|False|40000058~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000059\": \"40000059|0|OPEN|False|11/03/2026 04:26:13|1|False|40000059~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000060\": \"40000060|0|OPEN|False|11/03/2026 04:26:13|1|False|40000060~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000061\": \"40000061|0|OPEN|False|11/03/2026 04:26:13|1|False|40000061~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000062\": \"40000062|0|OPEN|False|11/03/2026 04:26:13|1|False|40000062~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000063\": \"40000063|0|OPEN|False|11/03/2026 04:26:13|1|False|40000063~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000064\": \"40000064|0|OPEN|False|11/03/2026 04:26:13|1|False|40000064~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000065\": \"40000065|0|OPEN|False|11/03/2026 04:26:13|1|False|40000065~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000066\": \"40000066|0|OPEN|False|11/03/2026 04:26:13|1|False|40000066~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000067\": \"40000067|0|OPEN|False|11/03/2026 04:26:13|1|False|40000067~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000068\": \"40000068|0|OPEN|False|11/03/2026 04:26:13|1|False|40000068~ACTIVE~100.0:0.0:35~100.0:0.0:34\", \"40000069\": \"40000069|0|OPEN|False|11/03/2026 04:26:13|1|False|40000069~ACTIVE~100.0:0.0:35~100.0:0.0:34\"}"
+  }
+}

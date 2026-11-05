@@ -1,0 +1,72 @@
+{
+  "eventType": {
+    "id": "2",
+    "name": "Tennis"
+  },
+  "competition": {
+    "id": "12842155",
+    "name": "WTA Chennai 2026",
+    "provider": "BETFAIR"
+  },
+  "event": {
+    "id": "36262637",
+    "name": "Sa Yamalapalli v Sim Waltert",
+    "countryCode": null,
+    "venue": null,
+    "openDate": "2026-11-03T12:30:00Z"
+  },
+  "catalogues": [
+    {
+      "marketId": "1.264842870",
+      "marketTime": "2026-11-02T03:00:00Z",
+      "marketType": "MATCH_ODDS",
+      "bettingType": "ODDS",
+      "marketName": "Match Odds",
+      "provider": "BETFAIR",
+      "marketCondition": {
+        "marketId": "1.264842870",
+        "betLock": false,
+        "minBet": 100,
+        "maxBet": 10000,
+        "maxProfit": 100000,
+        "betDelay": 10,
+        "mtp": 10,
+        "allowUnmatchBet": false,
+        "potLimit": 0,
+        "volume": 0
+      },
+      "status": "OPEN",
+      "inPlay": true,
+      "sortPriority": 0,
+      "runners": [
+        {
+          "id": 40027477,
+          "name": "Sahaja Yamalapalli",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "40027477"
+          }
+        },
+        {
+          "id": 10874403,
+          "name": "Simona Waltert",
+          "sortPriority": 0,
+          "metadata": {
+            "runnerId": "10874403"
+          }
+        }
+      ]
+    }
+  ],
+  "isActive": true,
+  "isArchived": false,
+  "metadata": {
+    "scoreUrl": "76256882",
+    "tvUrl": "https://oddsdata.org/score/a9a34ab526857ed732b4cc0aa5802be39fca6e47/8365",
+    "hasTv": "True",
+    "messages": "{\"1.264842870\":[{\"time\":1793565038,\"message\":\"WRONG TRADE BETS ONLY PROFIT BETS VOID\\u00A0HOGI\",\"isActive\":true}]}",
+    "inactiveMarkets": "[]",
+    "archivedMarkets": "[]",
+    "books": "{\"1.264842870\":\"1.264842870|3|OPEN|True|11/03/2026 19:43:08|1793734990214|False|40027477~ACTIVE~7.2:8.19:*7:42.66:*6.8:246.8:~7.4:102.67:*7.6:119.91:*7.8:315.38:,10874403~ACTIVE~1.15:3480.29:*1.14:1158.55:*1.13:1918.04:~1.16:50.83:*1.17:1083.55:*1.18:1748.48:\"}"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "login_endpoint": "POST https://api.radheex.com/sso/auth",
+  "headers": {
+    "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+    "x-op-key": "RDE"
+  },
+  "payload_format": "username={username}&password={password}&requestId={uuid}&captchaAnswer={solution}",
+  "captcha_endpoint": "GET https://api.radheex.com/sso/auth/requestcaptcha",
+  "response_token_type": "Bearer JWT",
+  "token_claims": {
+    "sub": "mataji060",
+    "role": "Client",
+    "iss": "RDE",
+    "exp": 1793765701293,
+    "pwdch": false,
+    "ip": "client_ip"
+  }
+}

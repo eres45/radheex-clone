@@ -1,0 +1,151 @@
+{
+  "eventDicByName": {
+    "wbbl": {
+      "url": "/wbbl",
+      "displayName": "WBBL 2026",
+      "eventid": 28045743,
+      "selectedMarket": 1.26373753,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": true
+    },
+    "bbl": {
+      "url": "/bbl",
+      "displayName": "BBL 2025",
+      "eventid": 27996014,
+      "selectedMarket": 0,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "psl": {
+      "url": "/psl",
+      "displayName": "PSL 2026",
+      "eventid": 28102621,
+      "selectedMarket": 1.221643851,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "wc": {
+      "url": "/wc",
+      "displayName": "World Cup",
+      "eventid": 29371262,
+      "selectedMarket": 1.160513989,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "wwc": {
+      "url": "/wwc",
+      "displayName": "WWC 2026",
+      "eventid": 33439203,
+      "selectedMarket": 1.254791236,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "wt20": {
+      "url": "/wt20",
+      "displayName": "WC 2026",
+      "eventid": 33439271,
+      "selectedMarket": 1.236673692,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "icc": {
+      "url": "/icc",
+      "displayName": "ICC",
+      "eventid": 28214334,
+      "selectedMarket": 1.230619484,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "asiacup": {
+      "url": "/asiacup",
+      "displayName": "Asia Cup 2025",
+      "eventid": 28871646,
+      "selectedMarket": 1.230619484,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "thehundredcup": {
+      "url": "/thehundredcup",
+      "displayName": "Hundred Cup",
+      "eventid": 29510526,
+      "selectedMarket": 1.255461882,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "wpl": {
+      "url": "/wpl",
+      "displayName": "W Hundred Cup",
+      "eventid": 30673163,
+      "selectedMarket": 1.255462233,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "wpll": {
+      "url": "/wpl",
+      "displayName": "WPL 2026",
+      "eventid": 32127028,
+      "selectedMarket": 1.230619484,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "ipl": {
+      "url": "/ipl",
+      "displayName": "CPL 2026",
+      "eventid": 28327605,
+      "selectedMarket": 1.254791364,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    },
+    "ipll": {
+      "url": "/ipl",
+      "displayName": "IPL 2026",
+      "eventid": 28127348,
+      "selectedMarket": 1.23063084,
+      "eventtype": 4,
+      "showInMenu": true,
+      "show": false
+    }
+  },
+  "eventDicByID": {
+    "28045743": "/wbbl",
+    "27996014": "/bbl",
+    "29371262": "/wc",
+    "33439271": "/wt20",
+    "33439203": "/wwc",
+    "28214334": "/icc",
+    "28102621": "/psl",
+    "28871646": "/asiacup",
+    "29510526": "/thehundredcup",
+    "30673163": "/wpl",
+    "32127028": "/wpll",
+    "28327605": "/ipl",
+    "28127348": "/ipl"
+  },
+  "kabaddi": {
+    "show": false
+  },
+  "election": {
+    "show": false
+  },
+  "tvcon": {
+    "show": true,
+    "userDaysThreshholdCheck": false,
+    "userDaysThreshhold": 0,
+    "userDaysThreshholdMsg": "",
+    "balanceThreshholdCheck": true,
+    "balanceThreshhold": 0,
+    "balanceThreshholdMsg": "You do not have enough balance to watch Live TV."
+  }
+}

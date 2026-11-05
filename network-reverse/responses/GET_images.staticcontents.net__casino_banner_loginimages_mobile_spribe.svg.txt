@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="21.1666mm" height="8.4666mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2117 847"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2500975201808">
+   <polygon class="fil0" points="48,837 2069,837 2069,741 48,741 "/>
+   <path class="fil0" d="M1549 598l-64 0 0 -201c30,0 76,-5 94,12 27,23 18,95 18,142 0,28 -19,47 -48,47zm-10 -307l-54 0 0 -170c61,0 106,-17 106,85 0,13 -6,50 -10,58 -7,14 -22,27 -42,27l0 0zm-165 408l196 0c45,0 90,-23 110,-50 42,-56 44,-184 17,-252 -13,-32 -28,-43 -58,-58 10,-14 15,-12 28,-26 34,-36 108,-298 -134,-298l-159 0 0 684 0 0z"/>
+   <path class="fil0" d="M944 323l-37 0 0 -202c72,0 106,-14 106,95 0,66 -6,107 -69,107l0 0zm-148 376l111 0 0 -276c119,0 107,37 106,191 0,36 5,58 5,85l117 0c-8,-37 -10,-42 -10,-90 0,-68 11,-218 -64,-239 14,-21 32,-26 46,-54 25,-52 30,-208 -23,-261 -55,-55 -194,-40 -288,-40l0 684 0 0z"/>
+   <path class="fil0" d="M583 343l-42 0 0 -222c100,0 101,-15 101,148 0,47 -11,74 -59,74zm-153 356l111 0 0 -255c95,0 212,6 212,-164 0,-121 15,-265 -164,-265l-159 0 0 684 0 0z"/>
+   <path class="fil0" d="M53 158c0,64 -2,85 32,143 50,89 175,128 175,255 0,65 -95,65 -95,0l0 -64 -117 0 0 48c0,201 253,217 309,87 17,-41 14,-70 14,-114 0,-162 -206,-202 -206,-344 0,-83 100,-72 100,-6l0 43 106 0c0,-130 -30,-196 -170,-196 -84,0 -148,64 -148,148l0 0z"/>
+   <polygon class="fil0" points="1772,699 2069,699 2069,598 1883,598 1883,408 2032,408 2032,301 1883,301 1883,121 2069,121 2069,15 1772,15 "/>
+   <polygon class="fil0" points="1188,699 1300,699 1300,15 1188,15 "/>
+  </g>
+ </g>
+</svg>

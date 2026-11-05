@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+app.db
+/*.png
+/*.jpg
+/*.zip
+recovered_step.*
+oddsdata_debug.html
+live_audit_dump.json
+static/*.png
+.env

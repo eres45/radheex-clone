@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <linearGradient id="dCyan1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="50%" stop-color="#70e2ff"/>
+      <stop offset="100%" stop-color="#008cb4"/>
+    </linearGradient>
+    <linearGradient id="dCyan2" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#006080"/>
+      <stop offset="100%" stop-color="#a8f4ff"/>
+    </linearGradient>
+    <filter id="dShad">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#00384d" flood-opacity="0.7"/>
+    </filter>
+  </defs>
+  <circle cx="50" cy="50" r="44" fill="#0c1a24" stroke="#40c8f0" stroke-width="2.5"/>
+  <g filter="url(#dShad)">
+    <polygon points="32,32 68,32 50,22" fill="#e0faff"/>
+    <polygon points="18,40 32,32 50,22 18,40" fill="#9be5f7"/>
+    <polygon points="82,40 68,32 50,22 82,40" fill="#79d8f0"/>
+    <polygon points="18,40 32,32 68,32 82,40 50,48" fill="url(#dCyan1)"/>
+    <polygon points="18,40 50,48 50,82" fill="url(#dCyan2)"/>
+    <polygon points="82,40 50,48 50,82" fill="#007a99"/>
+    <polygon points="32,40 50,48 50,82" fill="#5ce1e6" opacity="0.5"/>
+  </g>
+  <circle cx="50" cy="22" r="2.5" fill="#fff"/>
+  <circle cx="32" cy="32" r="2" fill="#fff"/>
+</svg>

@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <defs>
+    <!-- Outer rim bevel & 3D gradient -->
+    <radialGradient id="rimGrad_500" cx="35%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="1"/>
+      <stop offset="70%" stop-color="#7e22ce" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#0a0a0a" stop-opacity="0.9"/>
+    </radialGradient>
+    
+    <!-- Inner disc bevel -->
+    <radialGradient id="innerDisc_500" cx="35%" cy="30%" r="65%">
+      <stop offset="0%" stop-color="#c084fc" stop-opacity="0.9"/>
+      <stop offset="85%" stop-color="#7e22ce" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#111" stop-opacity="1"/>
+    </radialGradient>
+
+    <!-- Metallic Gold Inlay -->
+    <linearGradient id="goldInlay_500" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ffe27a"/>
+      <stop offset="40%" stop-color="#d4af37"/>
+      <stop offset="70%" stop-color="#8a6508"/>
+      <stop offset="100%" stop-color="#ffd700"/>
+    </linearGradient>
+
+    <!-- Glossy glass highlight -->
+    <linearGradient id="glassGloss_500" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.55"/>
+      <stop offset="45%" stop-color="#ffffff" stop-opacity="0.1"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Drop shadow -->
+    <filter id="chipShadow_500" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="5" stdDeviation="4" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <g filter="url(#chipShadow_500)">
+    <!-- Outer 3D Rim -->
+    <circle cx="50" cy="50" r="46" fill="url(#rimGrad_500)" stroke="#050505" stroke-width="1.5"/>
+
+    <!-- 8 Edge Stripe Inserts (Authentic Clay Casino Mold) -->
+    <g fill="#f8fafc" stroke="#334155" stroke-width="0.5">
+      <rect x="44" y="4" width="12" height="10" rx="1.5"/>
+      <rect x="44" y="86" width="12" height="10" rx="1.5"/>
+      <rect x="4" y="44" width="10" height="12" rx="1.5"/>
+      <rect x="86" y="44" width="10" height="12" rx="1.5"/>
+      <g transform="rotate(45 50 50)">
+        <rect x="44" y="4" width="12" height="10" rx="1.5"/>
+        <rect x="44" y="86" width="12" height="10" rx="1.5"/>
+        <rect x="4" y="44" width="10" height="12" rx="1.5"/>
+        <rect x="86" y="44" width="10" height="12" rx="1.5"/>
+      </g>
+    </g>
+
+    <!-- Inner Groove Ring -->
+    <circle cx="50" cy="50" r="36" fill="none" stroke="url(#goldInlay_500)" stroke-width="2" stroke-dasharray="3,2"/>
+    
+    <!-- Central Clay Inlay -->
+    <circle cx="50" cy="50" r="32" fill="url(#innerDisc_500)"/>
+    
+    <!-- Gold/Metallic Center Ring -->
+    <circle cx="50" cy="50" r="28" fill="#ffffff" stroke="url(#goldInlay_500)" stroke-width="2.5"/>
+
+    <!-- Center Label & Denomination -->
+    <text x="50" y="38" text-anchor="middle" font-family="Arial, sans-serif" font-size="8" font-weight="bold" fill="#64748b" letter-spacing="1">RADHE VIP</text>
+    <text x="50" y="58" text-anchor="middle" font-family="Arial, sans-serif" font-size="19" font-weight="900" fill="#0f172a">500</text>
+    <text x="50" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="6.5" font-weight="bold" fill="#64748b" letter-spacing="0.5">PTS</text>
+
+    <!-- 3D Glass Specular Reflection Crescent -->
+    <path d="M 18,50 A 32,32 0 0,1 82,50 A 32,22 0 0,0 18,50 Z" fill="url(#glassGloss_500)" pointer-events="none"/>
+  </g>
+</svg>

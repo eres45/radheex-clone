@@ -1427,8 +1427,13 @@ def create_app(test_config=None):
             return jsonify({"error": "Event id must be numeric."}), 400
         try:
             raw = live_feed.fetch_json(f"events/detail/{event_id}")
+            if not isinstance(raw, dict) or not raw.get("event") or not raw.get("event", {}).get("name"):
+                return jsonify({"error": "Event has concluded or is no longer available.", "concluded": True}), 404
+            parsed = live_feed.parse_event_detail(raw)
+            if not parsed.get("event_name") or parsed.get("event_id") == "None":
+                return jsonify({"error": "Event has concluded or is no longer available.", "concluded": True}), 404
             return _json_etag({"source": "live-delayed",
-                               "event": live_feed.parse_event_detail(raw)})
+                               "event": parsed})
         except Exception:
             return jsonify({"source": "live-error",
                             "error": "Live feed unavailable."}), 502
@@ -1457,6 +1462,8 @@ def create_app(test_config=None):
             return jsonify({"error": "Invalid live bet selection."}), 400
         try:
             raw = live_feed.fetch_json(f"events/detail/{event_id}")
+            if not isinstance(raw, dict) or not raw.get("event"):
+                return jsonify({"error": "Live event concluded or unavailable."}), 404
         except Exception:
             return jsonify({"error": "Live event unavailable."}), 502
         detail = live_feed.parse_event_detail(raw)

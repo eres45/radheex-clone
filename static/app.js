@@ -12,7 +12,7 @@ let HOME_TIMER = null;
 let RENDER_GEN = 0;
 
 const fmt = n => Number(n).toLocaleString('en-IN', {minimumFractionDigits: 2, maximumFractionDigits: 2});
-const esc = s => String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const esc = s => (s == null ? '' : String(s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])));
 
 async function api(path, method = 'GET', body = null) {
   // Security audit: every POST carries the CSRF token (fetched once
@@ -975,21 +975,80 @@ function liveTvComponentHtml(ev, tvUrl) {
 }
 
 
+async function renderLiveEventConcluded(gen, currentSport) {
+  if (gen !== RENDER_GEN) return;
+  if (ODDS_TIMER) { clearInterval(ODDS_TIMER); ODDS_TIMER = null; }
+
+  let liveMatchesHtml = '';
+  try {
+    const res = await api('/api/live/current?slim=1');
+    const matches = (res.events || []).filter(m => m && m.event_name).slice(0, 6);
+    if (matches.length) {
+      liveMatchesHtml = `
+        <div style="margin-top: 24px; text-align: left;">
+          <h4 style="margin: 0 0 12px 0; color: #17a2b8; font-size: 14px; text-transform: uppercase; letter-spacing: 0.5px;">
+            ⚡ Active In-Play Matches Right Now
+          </h4>
+          <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 10px;">
+            ${matches.map(m => `
+              <a href="#/live/event/${m.event_id}" style="display: flex; justify-content: space-between; align-items: center; padding: 10px 14px; background: #fff; border: 1px solid #ddd; border-radius: 6px; text-decoration: none; color: #333; transition: all 0.2s;" onmouseover="this.style.borderColor='#17a2b8';this.style.boxShadow='0 2px 8px rgba(0,0,0,0.08)';" onmouseout="this.style.borderColor='#ddd';this.style.boxShadow='none';">
+                <div>
+                  <div style="font-weight: 700; font-size: 13px; color: #111;">${esc(m.event_name)}</div>
+                  <div style="font-size: 11px; color: #777; margin-top: 2px;">${esc(m.competition || m.sport || '')}</div>
+                </div>
+                <div style="display: flex; align-items: center; gap: 6px;">
+                  ${m.has_tv ? '<span style="background: #dc3545; color: #fff; font-size: 10px; font-weight: 800; padding: 2px 6px; border-radius: 3px;">LIVE TV</span>' : '<span style="background: #28a745; color: #fff; font-size: 10px; font-weight: 800; padding: 2px 6px; border-radius: 3px;">IN-PLAY</span>'}
+                </div>
+              </a>
+            `).join('')}
+          </div>
+        </div>
+      `;
+    }
+  } catch (e) {}
+
+  view.innerHTML = `
+    <div class="layout">
+      ${sidebarHtml(currentSport || 'Cricket')}
+      <div class="content">
+        <div class="card" style="text-align: center; padding: 36px 20px; max-width: 900px; margin: 0 auto;">
+          <div style="font-size: 42px; margin-bottom: 10px;">⏱️</div>
+          <h2 style="margin: 0 0 8px 0; color: #09687c; font-size: 20px;">Match Concluded</h2>
+          <p style="color: #666; font-size: 13px; max-width: 500px; margin: 0 auto 18px auto; line-height: 1.5;">
+            This live match has concluded and the in-play market is now closed. Explore other ongoing events below or return to the sportsbook.
+          </p>
+          <div style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+            <a href="#/inplay" class="btn" style="background: #17a2b8; color: #fff; padding: 8px 18px; border-radius: 4px; text-decoration: none; font-weight: 700; font-size: 13px;">View All In-Play Matches</a>
+            <a href="#/home" class="btn" style="background: #e9ecef; color: #333; padding: 8px 18px; border-radius: 4px; text-decoration: none; font-weight: 600; font-size: 13px;">Return to Home</a>
+          </div>
+          ${liveMatchesHtml}
+        </div>
+      </div>
+    </div>
+  `;
+}
+
+
 async function liveEventView(eventId, keepSlip) {
   const gen = RENDER_GEN;
   if (LIVE_EVENT_ID !== eventId) TV_MEDIA_OPEN = false;
   if (TV_MEDIA_OPEN && LIVE_EVENT_ID === eventId) return;
   LIVE_EVENT_ID = eventId;
+  const cached = LIST_CACHE['ev:' + eventId];
   let data;
   try {
     data = await api('/api/live/event/' + encodeURIComponent(eventId));
   } catch (err) {
     if (gen !== RENDER_GEN) return;
-    view.innerHTML = `<div class="card"><p class="loss">Live event unavailable: ${esc(err.message)}</p><p><a href="#/home">Back home</a></p></div>`;
+    await renderLiveEventConcluded(gen, cached ? cached.sport : null);
     return;
   }
   if (gen !== RENDER_GEN) return;
-  const ev = data.event;
+  const ev = data ? data.event : null;
+  if (!ev || !ev.event_name || ev.event_id === 'None') {
+    await renderLiveEventConcluded(gen, cached ? cached.sport : null);
+    return;
+  }
   // Detail books are often empty; refresh an OPEN market's prices
   // through the targeted single-market lookup and merge them in, so
   // odds buttons are priced whenever the market has prices at all.
@@ -1030,7 +1089,7 @@ async function liveEventView(eventId, keepSlip) {
   // would mislabel a stream placeholder as a scorecard. scoreUrl is
   // still passed through the proxy for when operator access exists.
   let tvUrl = ev.tv_url || null;
-  const cached = LIST_CACHE['ev:' + eventId];
+  // cached already declared at start of liveEventView
   if (!tvUrl && cached && cached.tv_url) tvUrl = cached.tv_url;
   if (!ev.sport && cached && cached.sport) ev.sport = cached.sport;
   if (!ev.sport && ev.sport_id) ev.sport = normalizeSport(ev.sport_id);
@@ -1141,9 +1200,8 @@ async function liveEventView(eventId, keepSlip) {
   view.innerHTML = `
     <div class="layout">${sidebarHtml(ev.sport)}<div class="content"><div class="ev-layout"><div class="ev-main">
     <div class="card">
-      <div class="ev-title"><span>${esc(ev.event_name)}</span><span class="ev-date">${ev.open_date ? new Date(ev.open_date).toLocaleString('en-IN') : ''}</span></div>
-      <p>${esc(ev.competition || '')} · ${esc(ev.sport)} ·
-        ${ev.markets.some(m => m.in_play) ? '<span class="live-badge">LIVE</span>' : ''}</p>
+      <div class="ev-title"><span>${esc(ev.event_name || 'Live Event')}</span><span class="ev-date">${ev.open_date ? new Date(ev.open_date).toLocaleString('en-IN') : ''}</span></div>
+      <p>${esc(ev.competition || '')}${(ev.competition && ev.sport) ? ' · ' : ''}${esc(ev.sport || '')} ${ev.markets.some(m => m.in_play) ? '<span class="live-badge">LIVE</span>' : ''}</p>
       <p class="live-note"><span class="live-dot-mini"></span> Live delayed feed — delayed guest data, not real-time.</p>
       ${msgHtml}${tvHtml}
       <div id="liveMarketsWrap">

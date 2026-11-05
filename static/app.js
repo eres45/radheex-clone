@@ -941,10 +941,9 @@ function liveTvComponentHtml(ev, tvUrl) {
         </div>
         <div id="tvViewStream">
           ${hasExternalVideo
-            ? `<div class="tv-iframe-wrap" style="position:relative;width:100%;height:380px;background:#000;">
+            ? `<div class="tv-iframe-wrap">
                 <iframe id="tvFrame"
                         src="${esc(tvUrl)}"
-                        style="width:100%;height:100%;border:0;display:block;"
                         referrerpolicy="no-referrer"
                         allow="autoplay; encrypted-media; fullscreen; picture-in-picture"
                         allowfullscreen>
@@ -964,10 +963,10 @@ function liveTvComponentHtml(ev, tvUrl) {
           }
         </div>
         <div class="tv-controls-bar">
-          <span>Channel: ${matchInfo.channelName} · 1080p60</span>
+          <span class="tv-channel-info">Channel: ${matchInfo.channelName} · 1080p60</span>
           <div class="tv-controls-right">
             <button type="button" class="tv-control-btn" id="btnTvMute">Audio: OFF</button>
-            <button type="button" class="tv-control-btn" id="btnTvFullscreen">Fullscreen</button>
+            <button type="button" class="tv-control-btn" id="btnTvFullscreen" title="Toggle Fullscreen">⛶ Fullscreen</button>
           </div>
         </div>
       </div>
@@ -1196,13 +1195,67 @@ async function liveEventView(eventId, keepSlip) {
     };
   }
   if (btnFs) {
-    btnFs.onclick = () => {
+    const syncFsUi = () => {
       const container = document.getElementById('liveTvContainer');
-      if (container) {
-        if (!document.fullscreenElement) container.requestFullscreen().catch(() => {});
-        else document.exitFullscreen().catch(() => {});
+      const isFs = Boolean(
+        document.fullscreenElement ||
+        document.webkitFullscreenElement ||
+        (container && container.classList.contains('is-fullscreen'))
+      );
+      if (btnFs) {
+        btnFs.innerHTML = isFs ? '&#x2913; Exit Fullscreen' : '&#x26F6; Fullscreen';
+        btnFs.classList.toggle('active', isFs);
       }
     };
+
+    btnFs.onclick = () => {
+      const container = document.getElementById('liveTvContainer');
+      if (!container) return;
+      const isFs = Boolean(
+        document.fullscreenElement ||
+        document.webkitFullscreenElement ||
+        container.classList.contains('is-fullscreen')
+      );
+
+      if (!isFs) {
+        if (container.requestFullscreen) {
+          container.requestFullscreen().then(() => {
+            container.classList.add('is-fullscreen');
+            syncFsUi();
+          }).catch(() => {
+            container.classList.add('is-fullscreen');
+            document.body.classList.add('tv-fullscreen-locked');
+            syncFsUi();
+          });
+        } else if (container.webkitRequestFullscreen) {
+          container.webkitRequestFullscreen();
+          container.classList.add('is-fullscreen');
+          syncFsUi();
+        } else {
+          container.classList.add('is-fullscreen');
+          document.body.classList.add('tv-fullscreen-locked');
+          syncFsUi();
+        }
+        if (screen.orientation && screen.orientation.lock) {
+          screen.orientation.lock('landscape').catch(() => {});
+        }
+      } else {
+        if (document.exitFullscreen) {
+          document.exitFullscreen().catch(() => {});
+        } else if (document.webkitExitFullscreen) {
+          document.webkitExitFullscreen();
+        }
+        container.classList.remove('is-fullscreen');
+        document.body.classList.remove('tv-fullscreen-locked');
+        if (screen.orientation && screen.orientation.unlock) {
+          screen.orientation.unlock();
+        }
+        syncFsUi();
+      }
+    };
+
+    document.onfullscreenchange = syncFsUi;
+    document.onwebkitfullscreenchange = syncFsUi;
   }
   if (matchVideo) {
     matchVideo.load();

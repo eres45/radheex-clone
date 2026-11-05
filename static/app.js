@@ -852,42 +852,15 @@ function getMatchLiveStats(ev) {
     const goals2 = ((seed >> 2) % 3);
     const minute = (seed % 78) + 10;
     const half = minute <= 45 ? '1st Half' : '2nd Half';
-    const poss1 = (seed % 24) + 40;
-    const poss2 = 100 - poss1;
-    const shots1 = (seed % 7) + 2;
-    const shots2 = ((seed >> 3) % 6) + 1;
-    const corners1 = (seed % 6) + 1;
-    const corners2 = ((seed >> 2) % 5) + 1;
-    const fouls1 = (seed % 8) + 3;
-    const fouls2 = ((seed >> 1) % 8) + 3;
-    const dangerousAttacks = (minute % 2 === 0) ? `${team1} in Dangerous Attack` : `${team2} Counter Attack`;
-    
     return {
       sport: 'Soccer',
       team1, team2,
       t1Score: String(goals1),
       t2Score: String(goals2),
       matchStatus: `${minute}' ${half}`,
-      tabName: 'Match Radar',
       channelName: 'SUPER SPORTS FOOTBALL HD',
       videoSrc: '/static/videos/soccer_live.mp4',
-      posterImg: '/static/images/Soccer-banner.jpg',
-      radarHtml: `
-        <div id="tvViewRadar" class="tv-simulated-soccer" class="tv-view-hidden">
-          <div class="radar-hud-info">
-            <div class="radar-line"><b>Possession:</b> ${esc(team1)} ${poss1}% - ${poss2}% ${esc(team2)}</div>
-            <div class="radar-line"><b>Shots on Target:</b> ${shots1} - ${shots2} · <b>Corners:</b> ${corners1} - ${corners2}</div>
-            <div class="radar-line radar-highlight"><b>Attack:</b> ${esc(dangerousAttacks)}</div>
-          </div>
-          <div class="soccer-pitch-field">
-            <div class="pitch-center-line"></div>
-            <div class="pitch-center-circle"></div>
-            <div class="penalty-box left"></div>
-            <div class="penalty-box right"></div>
-            <div class="soccer-ball-anim"></div>
-          </div>
-        </div>
-      `
+      posterImg: '/static/images/Soccer-banner.jpg'
     };
   } else if (sport === 'Tennis') {
     const set1_p1 = (seed % 2 === 0) ? 6 : ((seed % 3 === 0) ? 7 : 4);
@@ -896,38 +869,15 @@ function getMatchLiveStats(ev) {
     const set2_p2 = ((seed >> 2) % 4) + 1;
     const pointsList = ['15 - 0', '30 - 15', '40 - 30', '40 - 40 (Deuce)', 'Advantage ' + (seed % 2 === 0 ? team1.split(' ').pop() : team2.split(' ').pop()), '30 - 40'];
     const currentPoint = pointsList[seed % pointsList.length];
-    const server = seed % 2 === 0 ? team1 : team2;
-    const aces1 = (seed % 8) + 1;
-    const aces2 = ((seed >> 2) % 7) + 1;
-    const bp1 = `${(seed % 3) + 1}/${(seed % 4) + 2}`;
-    const bp2 = `${((seed >> 1) % 3) + 1}/${((seed >> 1) % 4) + 2}`;
-
     return {
       sport: 'Tennis',
       team1, team2,
       t1Score: `${set1_p1}, ${set2_p1}`,
       t2Score: `${set1_p2}, ${set2_p2}`,
       matchStatus: `Set 2 · ${currentPoint}`,
-      tabName: 'Court Tracker',
       channelName: 'SUPER SPORTS TENNIS HD',
       videoSrc: '/static/videos/tennis_live.mp4',
-      posterImg: '/static/images/Tennis-banner.jpg',
-      radarHtml: `
-        <div id="tvViewRadar" class="tv-simulated-tennis" class="tv-view-hidden">
-          <div class="radar-hud-info">
-            <div class="radar-line"><b>Serving:</b> ${esc(server)} · <b>Points:</b> ${esc(currentPoint)}</div>
-            <div class="radar-line"><b>Aces:</b> ${aces1} - ${aces2} · <b>Break Points:</b> ${bp1} - ${bp2}</div>
-            <div class="radar-line radar-highlight"><b>Court:</b> Rally In Progress</div>
-          </div>
-          <div class="tennis-court-field">
-            <div class="court-net"></div>
-            <div class="court-service-line left"></div>
-            <div class="court-service-line right"></div>
-            <div class="court-center-service"></div>
-            <div class="tennis-ball-anim"></div>
-          </div>
-        </div>
-      `
+      posterImg: '/static/images/Tennis-banner.jpg'
     };
   } else {
     // Cricket
@@ -947,39 +897,14 @@ function getMatchLiveStats(ev) {
       t1Score = `${runs}/${wickets} (${oversStr} ov)`;
       t2Score = 'Yet to bat';
     }
-    const rrr = ((seed % 30) / 10 + 8.5).toFixed(2);
-    const strikerRuns = (seed % 42) + 18;
-    const strikerBalls = Math.round(strikerRuns / (1.2 + ((seed % 5) * 0.1)));
-    const bowlerOvers = `${(seed % 3) + 1}.${seed % 6}`;
-    const bowlerRuns = (seed % 28) + 12;
-    const bowlerWkts = (seed % 3);
-
     return {
       sport: 'Cricket',
       team1, team2,
       t1Score, t2Score,
       matchStatus: `IN-PLAY ${oversStr} ov · CRR ${crr}`,
-      tabName: 'Pitch Tracker',
       channelName: 'SUPER SPORTS CRICKET HD',
       videoSrc: '/static/videos/cricket_live.mp4',
-      posterImg: '/static/images/Cricket-banner.jpg',
-      radarHtml: `
-        <div id="tvViewRadar" class="tv-simulated-pitch" class="tv-view-hidden">
-          <div class="radar-hud-info">
-            <div class="radar-line"><b>Batsman:</b> Striker on Strike (${strikerRuns}* off ${strikerBalls})</div>
-            <div class="radar-line"><b>Bowler:</b> Fast Medium (${bowlerOvers}-0-${bowlerRuns}-${bowlerWkts})</div>
-            <div class="radar-line"><b>CRR:</b> ${crr} · <b>RRR:</b> ${rrr}</div>
-          </div>
-          <div class="pitch-visual-field">
-            <div class="pitch-strip">
-              <span class="stump-marker top"></span>
-              <span class="ball-trajectory"></span>
-              <span class="stump-marker bottom"></span>
-            </div>
-            <div class="field-zone-ring"></div>
-          </div>
-        </div>
-      `
+      posterImg: '/static/images/Cricket-banner.jpg'
     };
   }
 }
@@ -1005,8 +930,6 @@ function liveTvComponentHtml(ev, tvUrl) {
           <span class="live-hd-pill">LIVE HD</span>
         </div>
         <div class="live-tv-tabs">
-          <button type="button" class="tv-mode-btn" id="btnTvRadar">${matchInfo.tabName}</button>
-          <button type="button" class="tv-mode-btn active" id="btnTvStream">Live Video</button>
           <button type="button" class="tv-control-btn" id="btnTvToggle" title="Toggle TV View">▼</button>
         </div>
       </div>
@@ -1016,7 +939,6 @@ function liveTvComponentHtml(ev, tvUrl) {
           <div class="tv-match-status"><span class="badge-status">In-Play</span> <span class="match-meta">${matchInfo.matchStatus}</span></div>
           <div class="tv-team-score" style="text-align:right"><span class="team-name">${esc(matchInfo.team2)}</span> <b>${matchInfo.t2Score}</b></div>
         </div>
-        ${matchInfo.radarHtml}
         <div id="tvViewStream">
           ${hasExternalVideo
             ? `<div class="tv-iframe-wrap" style="position:relative;width:100%;height:380px;background:#000;">
@@ -1245,38 +1167,13 @@ async function liveEventView(eventId, keepSlip) {
         <span>1 Welcome To Our Exchange 2</span>
       </div>
     </div>`;
-  const btnRadar = document.getElementById('btnTvRadar');
-  const btnStream = document.getElementById('btnTvStream');
-  const btnScore = document.getElementById('btnTvScore');
-  const vRadar = document.getElementById('tvViewRadar');
-  const vStream = document.getElementById('tvViewStream');
-  const vScore = document.getElementById('tvViewScore');
+  
+
   const btnToggle = document.getElementById('btnTvToggle');
   const tvBody = document.getElementById('tvBody');
   const btnMute = document.getElementById('btnTvMute');
   const btnFs = document.getElementById('btnTvFullscreen');
   const matchVideo = document.getElementById('liveMatchVideo');
-
-  const setTvTab = (activeBtn, showView) => {
-    [btnRadar, btnStream].forEach(b => { if (b) b.classList.remove('active'); });
-    if (vRadar) vRadar.classList.add('tv-view-hidden');
-    if (vStream) vStream.classList.add('tv-view-hidden');
-    if (activeBtn) activeBtn.classList.add('active');
-    if (showView) showView.classList.remove('tv-view-hidden');
-    if (activeBtn === btnStream && matchVideo) {
-      matchVideo.play().catch(() => {});
-    } else if (matchVideo) {
-      matchVideo.pause();
-    }
-  };
-
-  if (btnRadar) btnRadar.onclick = () => setTvTab(btnRadar, vRadar);
-  if (btnStream) {
-    btnStream.onclick = () => {
-      setTvTab(btnStream, vStream);
-    };
-  }
-  if (btnScore) btnScore.onclick = () => setTvTab(btnScore, vScore);
 
   if (btnToggle && tvBody) {
     btnToggle.onclick = () => {
